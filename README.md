@@ -16,9 +16,8 @@ Data sources are;
 ---
 Number and variety of data sources can be increased as needed.
 
-Project Digital Twin is intended to be used as a Strategic Decision Making tool for business users such as mid and high level managers as well as C-Suite members.
+Project Digital Twin is intended to be used as a Strategic Decision Making tool for business users such as mid and high level managers as well as C-Suite members. Digital twin is fundamentally a dashboard tool, customised to the specific needs of the industry. It enables users to generate periodic (daily, weekly, monthly, quarterly) and parametric reports to derive actionable insights without needing to examine the dashboard. Data warehouse refresh interval is daily.
 
-Digital Twin is fundamentally a dashboard tool, customised to the specific needs of the industry. It enables users to generate automatic and parametric daily, weekly and monthly reports without needing to examine the dashboard. Refresh interval is daily.
 ---
 ## 🏗️ Data Architecture
 
