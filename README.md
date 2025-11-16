@@ -4,30 +4,14 @@
 
 Data sources are;
 
-1. Production data, 
-    1. Data type: Transactional,
-    2. Data Source: ERP,
-2. Real Time Location Services data for personnel locations,
-    1. Data type : Time-series,
-    2. Data source : IoT devices,
-3. Real Time Location Services data for forklift locations,
-    1. Data type : Time-series,
-    2.  Data source : IoT devices,
-4. Electricity consumption data,
-    1. Data type : Time-series,
-    2. Data source : IoT devices,
-5. SCADA measurement data,
-    1. Data type : Time-series,
-    2. Data source : Relevant SCADA systems,
-6. Maintenance and machine failures data,
-    1. Data type : Transactional,
-    2. Data source : ERP,
-7. Customer orders data,
-    1. Data type : Transactional,
-    2. Data source : ERP,
-8. Purchase orders data,
-    1. Data type : Transactional ,
-    2. Data source : ERP.
+1. Production data, Data type: Transactional, Data Source: ERP,
+2. Real Time Location Services data for personnel locations, Data type : Time-series, Data source : IoT devices,
+3. Real Time Location Services data for forklift locations, Data type : Time-series, Data source : IoT devices,
+4. Electricity consumption data, Data type : Time-series, Data source : IoT devices,
+5. SCADA measurement data, Data type : Time-series, Data source : Relevant SCADA systems,
+6. Maintenance and machine failures data, Data type : Transactional, Data source : ERP,
+7. Customer orders data, Data type : Transactional, Data source : ERP,
+8. Purchase orders data, Data type : Transactional, Data source : ERP.
     
 ---
 Number and variety of data sources can be increased as needed.
@@ -74,12 +58,16 @@ Develop a data warehouse using SQL Server to consolidate sales data, enabling an
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+- **Production Analytics**
+- **Production analytics in conjunction with energy consumption**
+- **Production analytics in conjunction with SCADA measurements**
+- **Seasonality, Trends analysis**
+- **Personell productivity analytics**
+- **Forklift productivity analytics**
+- **Maintenance & Downtime metrics analytics**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
+
 
 
