@@ -60,8 +60,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Production analytics in conjunction with energy consumption**
 - **Production analytics in conjunction with SCADA measurements**
 - **Seasonality, Trends analysis**
-- **Personell productivity analytics**
-- **Forklift productivity analytics**
+- **Personell productivity analytics in conjunction with production analytics**
+- **Forklift productivity analytics in conjunction with production analytics**
 - **Maintenance & Downtime metrics analytics**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
