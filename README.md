@@ -2,7 +2,7 @@
 
 ## 🎉 Project Digital Twin
 
-Project Digital Twin aims at integrating various data sources in a manufacturing industry setting. Project Digital Twin is intended to be used as a Strategic Decision Making tool for business users such as mid and high level managers as well as C-Suite members. Digital twin is fundamentally a dashboard tool, customised to the specific needs of the industry. It enables users to generate periodic (daily, weekly, monthly, quarterly) and parametric reports to derive actionable insights without needing to examine the dashboard. 
+Project aims at integrating various data sources in a manufacturing industry setting and is intended to be used as a Strategic Decision Making tool for business users such as mid and high level managers as well as C-Suite members. Digital twin is fundamentally a dashboard tool, customised to the specific needs of the industry. It enables users to generate periodic (daily, weekly, monthly, quarterly) and parametric reports to derive actionable insights without needing to examine the dashboard. 
 Data warehouse refresh interval is daily.
 Number and variety of data sources can be increased as needed.
 
