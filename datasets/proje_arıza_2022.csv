@@ -1,0 +1,869 @@
+﻿Arıza/Bakım;Bildirim Tarihi;Ekipman Adı;Arıza/Bakım Grubu;Arıza/Bakım Türü;Arıza/Bakım Detayı;Parça Adedi;"Müdahale Başl. 
+Tarihi";"Müdahale Bitiş 
+Tarihi";Müdahale Başl. Saati;Müdahale Bitiş Saati;Müdahale Süresi (Dk.);Açıklama
+Arıza;3.01.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;3.01.2022;3.01.2022;06:30;06:45;15;1 tane patlak elek vardı değiştirildi
+Bakım;3.01.2022;Pres-1;Mekanik;Rulo Bakımı;Rulo Toplama;;3.01.2022;3.01.2022;08:35;12:30;235;Torna atalyösinde 4 adet rulo toplanıp hazırlandı
+Bakım;4.01.2022;Değirmen-1;Mekanik;Elek Bakımı;Çekiç Kontrol;;4.01.2022;4.01.2022;08:30;08:45;15;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;4.01.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Kontrol;;4.01.2022;4.01.2022;08:45;09:00;15;Değirmen-2 elek ve çekiçler kontrol edildi
+Bakım;4.01.2022;Teleskopik Bant-1;Mekanik;Bant Bakımı;Bant Bakımı;;4.01.2022;4.01.2022;12:10;12:15;5;Teleskopik Bant-1 gergi ayarı yapıldı
+Bakım;4.01.2022;Teleskopik Bant-2;Mekanik;Bant Bakımı;Bant Bakımı;;4.01.2022;4.01.2022;12:15;12:20;5;Teleskopik Bant-2 gergi ayarı yapıldı
+Bakım;4.01.2022;Teleskopik Bant-3;Mekanik;Bant Bakımı;Bant Bakımı;;4.01.2022;4.01.2022;12:20;12:25;5;Teleskopik Bant-3 gergi ayarı yapıldı
+Bakım;4.01.2022;Teleskopik Bant-4;Mekanik;Bant Bakımı;Bant Bakımı;;4.01.2022;4.01.2022;12:25;12:30;5;Teleskopik Bant-4 gergi ayarı yapıldı
+Arıza;4.01.2022;Teleskopik Bant-2;Mekanik;Bant Arızası;Swich Arızası;;4.01.2022;4.01.2022;23:10;23:20;10;Swich takılı kalmıştı ayarlama yapıldı
+Arıza;5.01.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;;5.01.2022;5.01.2022;08:30;08:45;15;1 tane patlak elek vardı değiştirildi
+Bakım;6.01.2022;Pres-4;Mekanik;Pres Bakımı;Pres Bakımı;;6.01.2022;6.01.2022;08:30;09:30;60;Pres-4 bakım yapıldı. Disk rulo kasnak kontrol edildi
+Bakım;6.01.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;6.01.2022;6.01.2022;10:00;11:00;60;Expander-1 bakım yapıldı. Konik taç stop çivatası bakımı yapıldı
+Bakım;6.01.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;6.01.2022;6.01.2022;16:30;16:45;15;Elekler 3*4 oldu. Orta köy tarafı 3 oldu
+Bakım;6.01.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;6.01.2022;6.01.2022;16:45;17:00;15;Elekler 3*4 oldu. Orta köy tarafı 3 oldu
+Arıza;6.01.2022;Paketleme-1;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;6.01.2022;6.01.2022;11:30;12:00;30;Paketleme-1 motor zincirlisi değiştirildi
+Bakım;6.01.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;6.01.2022;6.01.2022;18:20;18:30;10;Elekler 5*4 oldu. Kadıköy  tarafı 4 oldu
+Bakım;6.01.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;6.01.2022;6.01.2022;18:30;18:45;15;Elekler 5*4 oldu. Kadıköy  tarafı 4 oldu
+Arıza;7.01.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Değişimi;1;7.01.2022;7.01.2022;08:30;10:30;120;3 nolu sarsağın piston ve çekvalfi değiştirldi
+Bakım;7.01.2022;Pres-Küçük;Mekanik;Pres Bakımı;Pres Bakımı;;7.01.2022;7.01.2022;11:30;16:30;300;Pres-Küçük ayna ve toz çemberinde kaçaklar vardı kaynakla giderildi
+Bakım;7.01.2022;Teleskopik Bant-1;Mekanik;Bant Bakımı;Bant Bakımı;;7.01.2022;7.01.2022;15:15;15:30;15;Teleskopik Bant-1 gergi ayarı yapıldı
+Bakım;7.01.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;7.01.2022;7.01.2022;15:30;15:45;15;Elekler 4*4 oldu. 
+Bakım;7.01.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;7.01.2022;7.01.2022;15:45;16:00;15;Elekler 4*4 oldu. 
+Bakım;8.01.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;8.01.2022;8.01.2022;08:35;08:50;15;Elekler ve çekiçler kontrol edildi
+Bakım;8.01.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;8.01.2022;8.01.2022;08:50;09:10;20;Elekler ve çekiçler kontrol edildi
+Bakım;8.01.2022;Teleskopik Bant-3;Mekanik;Bant Bakımı;Bant Bakımı;;8.01.2022;8.01.2022;23:00;23:20;20;Teleskopik Bant-3 gergi ayarı yapıldı
+Arıza;9.01.2022;Teleskopik Bant-1;Mekanik;Bant Arızası;Bant Arızası;;9.01.2022;9.01.2022;22:40;23:40;60;Bant çalışmıyordu kabloları yenilendi
+Arıza;10.01.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;10.01.2022;10.01.2022;01:45;02:15;30;1 tane patlak elek vardı değiştirildi
+Arıza;10.01.2022;Pres-3;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;10.01.2022;10.01.2022;10:20;11:00;40;Pres-3 sigorta kesmişti yenisi ile değiştirildi
+Arıza;10.01.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata değişimi;5;10.01.2022;10.01.2022;08:15;13:15;300;Pres-4 cıvata kesmişti değişitildi. Rulo mili çatlamıştı kaynak yapıldı
+Arıza;10.01.2022;Sarsak-3;Mekanik;Basınç Saati Arızası;Basınç Saati Değişimi;1;10.01.2022;10.01.2022;14:00;14:20;20;Sarsak basınç saati patlamıştı değiştirildi
+Bakım;10.01.2022;Değirmen-1;Mekanik;Selvo Bakım;Selvo Bakım;;10.01.2022;10.01.2022;14:30;14:50;20;Değirmen selvo kontrolleri yapıldı
+Bakım;10.01.2022;Değirmen-2;Mekanik;Selvo Bakım;Selvo Bakım;;10.01.2022;10.01.2022;14:50;15:15;25;Değirmen selvo kontrolleri yapıldı
+Arıza;12.01.2022;Paketleme-3;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;12.01.2022;12.01.2022;12:00;12:45;45;Paketleme-3 motor zincirlisi değiştirildi
+Arıza;12.01.2022;Pres-4;Mekanik;Elevatör Arızası;Elevatör Üst tambur Değişimi;1;12.01.2022;12.01.2022;08:30;16:00;450;Pres-4 elevatörünün üst tamburu ve redüktörü değiştirildi. Milin bilyaları sıfır takıldı
+Arıza;14.01.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;14.01.2022;14.01.2022;08:15;09:30;75;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Bakım;14.01.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;;14.01.2022;14.01.2022;09:00;12:00;180;2 adet sıfır rulo toplandı
+Arıza;17.01.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata Değişimi;1;17.01.2022;17.01.2022;08:15;08:45;30;Pres-4 disk civataları kesmişti değiştirldi, ayar yapıldı
+Bakım;17.01.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;17.01.2022;17.01.2022;08:45;09:00;15;Expander-1 ön gömlek ve konileri kontrol edildi
+Bakım;17.01.2022;Expander-4;Mekanik;Expander Bakımı;Expander Bakımı;;17.01.2022;17.01.2022;09:00;09:15;15;Expander-4 ön gömlek ve konileri kontrol edildi
+Arıza;17.01.2022;Kondisyonel-1;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;17.01.2022;17.01.2022;09:20;11:15;115;Kondisyonel-1 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Bakım;18.01.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;18.01.2022;18.01.2022;19:15;19:40;25;Elekler 3*4 oldu. Vuran taraf 3
+Bakım;18.01.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;18.01.2022;18.01.2022;19:40;20:05;25;Elekler 3*4 oldu. Vuran taraf 3
+Arıza;19.01.2022;Expander-3;Mekanik;Taç Arızası;Taç Değişimi;1;19.01.2022;19.01.2022;09:00;10:15;75;Expander-3 taç değişimi yapıldı
+Arıza;19.01.2022;Expander-3;Mekanik;Koni Arızası;Koni Değişimi;1;19.01.2022;19.01.2022;10:15;11:30;75;Expander-3 koni değişimi yapıldı
+Arıza;19.01.2022;Expander-3;Mekanik;Kırıcı Eleği Arızası;Kırıcı Eleği Değişimi;1;19.01.2022;19.01.2022;11:30;12:30;60;Expander-3 kırıcı eleği değişimi yapıldı
+Bakım;19.01.2022;Değirmen-1;Mekanik;Değirmen Bakımı;Değirmen Bakımı;;19.01.2022;19.01.2022;13:50;14:30;40;Değirmen çekiçleri rulmanları ve milleri kontrol edildi
+Bakım;20.01.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;354;20.01.2022;20.01.2022;08:15;09:30;75;Çekiçler ve miller komple değiştirildi
+Bakım;20.01.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Değişimi;354;20.01.2022;20.01.2022;10:45;12:25;100;Çekiçler ve miller komple değiştirildi
+Arıza;20.01.2022;Kondisyonel-2;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;20.01.2022;20.01.2022;14:00;16:00;120;Kondisyonel-2 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Arıza;21.01.2022;Kondisyonel-2;Mekanik;Vinas Arızası;Vinas Arızası;;21.01.2022;21.01.2022;11:00;11:45;45;Kondüksiyonel-2 vinas tesisatında kaçak vardı onarıldı
+Arıza;21.01.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;21.01.2022;21.01.2022;08:30;08:45;15;1 tane patlak elek vardı değiştirildi
+Arıza;21.01.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;3;21.01.2022;21.01.2022;10:25;10:50;25;Pres-4 ön ayna civataları kesmişti çıkarıldı yenileri takıldı yarın hepsi değiştirecelek 
+Arıza;21.01.2022;Kondisyonel-4;Mekanik;Su Tesisatı Arızası;Su Tesisatı Arızası;;21.01.2022;21.01.2022;09:30;10:00;30;Kondisyonel-4 su tesisatından su gelmiyordu hattın içi temizlendi
+Arıza;21.01.2022;Expander;Mekanik;Expander Sıkışması;Expander Sıkışması;;21.01.2022;21.01.2022;21:30;22:40;70;Eski fabrika expander sıkışmıştı stop civataları sökülüp içi boşaltıldı
+Arıza;22.01.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;;22.01.2022;22.01.2022;08:10;09:50;100;Pres-4 ön ayna civataları kesmişti çıkarıldı yenileri takıldı. Hepsi yenilendi civataların. Toz çemberi ayarlandı
+Bakım;22.01.2022;Expander;Mekanik;Yön Klepe Bakımı;Yön Klepe Değişimi;;22.01.2022;22.01.2022;10:25;12:20;115;Eski fabrika expaderin yön klepesi değiştirildi
+Bakım;23.01.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;23.01.2022;23.01.2022;23:10;23:20;10;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;23.01.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;23.01.2022;23.01.2022;23:20;23:30;10;Değirmen-1 elek ve çekiçler kontrol edildi
+Arıza;24.01.2022;Kondisyonel-3;Mekanik;Motor Keçe Arızası;Motor Keçe Değişimi;;24.01.2022;24.01.2022;08:15;08:30;15;Kondüksiyonel-3 motor keçesi değiştirildi
+Arıza;24.01.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;24.01.2022;24.01.2022;19:00;20:00;60;Expander-2 kırıcı sıkışmıştı açıldı kopan bıçakları kaynatıldı
+Bakım;25.01.2022;Expander-1;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;25.01.2022;25.01.2022;08:10;08:20;10;Expander-1 stop cıvata kontrolleri yapıldı
+Bakım;25.01.2022;Expander-2;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;25.01.2022;25.01.2022;08:20;08:30;10;Expander-2 stop cıvata kontrolleri yapıldı
+Bakım;25.01.2022;Expander-3;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;25.01.2022;25.01.2022;08:30;08:40;10;Expander-3 stop cıvata kontrolleri yapıldı
+Bakım;25.01.2022;Expander-4;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;25.01.2022;25.01.2022;08:40;08:50;10;Expander-4 stop cıvata kontrolleri yapıldı
+Arıza;25.01.2022;Expander-2;Mekanik;Kafa Padıl Arızası;Kafa Padıl Değişimi;1;25.01.2022;25.01.2022;09:00;11:00;120;Expander-2 kafa padıl değişimi yapıldı
+Arıza;25.01.2022;Expander-2;Mekanik;Taç Arızası;Taç Değişimi;1;25.01.2022;25.01.2022;11:00;13:00;120;Expander-2 taç değişimi yapıldı
+Bakım;25.01.2022;Pres Elevatörü-1;Mekanik;Kayış Bakımı;Kayış Bakımı;;25.01.2022;25.01.2022;15:05;15:20;15;Pres Elevatörü-1 kayış ayarı yapılmıştır
+Bakım;25.01.2022;Pres Elevatörü-2;Mekanik;Kayış Bakımı;Kayış Bakımı;;25.01.2022;25.01.2022;15:20;15:35;15;Pres Elevatörü-2 kayış ayarı yapılmıştır
+Bakım;25.01.2022;Pres Elevatörü-3;Mekanik;Kayış Bakımı;Kayış Bakımı;;25.01.2022;25.01.2022;15:35;15:50;15;Pres Elevatörü-3 kayış ayarı yapılmıştır
+Bakım;25.01.2022;Pres Elevatörü-4;Mekanik;Kayış Bakımı;Kayış Bakımı;;25.01.2022;25.01.2022;15:50;16:05;15;Pres Elevatörü-4 kayış ayarı yapılmıştır
+Arıza;25.01.2022;Paketleme-4;Mekanik;Motor Arızası;Motor Değişimi;;25.01.2022;25.01.2022;14:30;15:00;30;Paketleme-4 zincirlinin motoru değiştirildi
+Arıza;26.01.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;26.01.2022;26.01.2022;10:00;11:00;60;Pres eleği-2 lastiği patlaktı değiştirildi
+Bakım;26.01.2022;Paketleme-4;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;26.01.2022;26.01.2022;14:00;17:00;180;Paketleme-4 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;27.01.2022;Pres Eleği-4;Mekanik;Elek Arızası;Elek Arızası;;27.01.2022;27.01.2022;08:10;10:15;125;Pres Eleği-4 elek patlaktı tamir edildi ve süpürge değişimi yapıldı
+Arıza;27.01.2022;Kondisyonel-3;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Bilya Değişimi;;27.01.2022;27.01.2022;11:30;16:25;295;Kondüksiyonel-3 motor tarafondaki ön mil yatak bilyası değiştirildi
+Bakım;29.01.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;29.01.2022;29.01.2022;11:00;11:15;15;Elekler 4*4 oldu. 
+Bakım;29.01.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;29.01.2022;29.01.2022;11:15;11:30;15;Elekler 4*4 oldu. 
+Bakım;29.01.2022;Paketleme-4;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;29.01.2022;29.01.2022;12:50;14:20;90;Paketleme-4 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;31.01.2022;Pres-4;Mekanik;Rulo Arızası;Rulo Değişimi;;31.01.2022;31.01.2022;08:15;11:50;215;Pres-4 rulo rulmanları dağılmıştı rulolar değiştirildi
+Arıza;31.01.2022;Pres-3;Mekanik;Melas Pompa Arızası;Melas Pompa Değişimi;1;31.01.2022;31.01.2022;14:30;15:00;30;3 nolu günlük pres pompası değişti
+Arıza;1.02.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;1.02.2022;1.02.2022;08:30;09:25;55;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Arıza;1.02.2022;Pres-1;Mekanik;Disk Arızası;Disk Değişimi;1;1.02.2022;1.02.2022;09:25;12:30;185;Pres-1 disk değişimi yapıldı sıfır disk yapıldı
+Arıza;1.02.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;1.02.2022;1.02.2022;09:30;09:45;15;1 tane patlak elek vardı değiştirildi
+Arıza;1.02.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;1.02.2022;1.02.2022;09:45;10:00;15;1 tane patlak elek vardı değiştirildi
+Bakım;2.02.2022;Paketleme-3;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;2.02.2022;2.02.2022;13:00;13:45;45;Paketleme-3 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;2.02.2022;Expander-1;Mekanik;Kırıcı Arıza;Kaplin Değişimi;;2.02.2022;2.02.2022;10:20;11:40;80;Expander-1 kırıcının kaplini kırılmıştı yenisi ile değiştirildi
+Arıza;2.02.2022;Pres-3;Mekanik;Melas Pompa Arızası;Melas Motor Değişimi;1;2.02.2022;2.02.2022;19:45;22:40;175;Pres-3 melas gelmiyordu motor poampası yanmış elektrikçi ile değişimi yapıldı
+Bakım;2.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;2.02.2022;2.02.2022;23:00;23:30;30;Elekler 4*3 oldu. 
+Bakım;2.02.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;2.02.2022;2.02.2022;23:30;00:00;30;Elekler 4*3 oldu. 
+Bakım;3.02.2022;Pres-4;Mekanik;Disk Bakımı;Disk Civata Değişimi;;3.02.2022;3.02.2022;10:30;12:00;90;Disk civataları kontrol edildi 2 tanesi değiştirildi
+Bakım;3.02.2022;Paketleme-3;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;3.02.2022;3.02.2022;13:30;14:30;60;Paketleme-3 zicirlisinin padıllarının yarısı değiştirildi
+Bakım;3.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;3.02.2022;3.02.2022;14:30;14:45;15;Elekler 4*4 oldu. 
+Bakım;3.02.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;3.02.2022;3.02.2022;14:45;15:00;15;Elekler 4*4 oldu. 
+Arıza;3.02.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;3.02.2022;3.02.2022;18:00;18:30;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;3.02.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;3.02.2022;3.02.2022;18:30;19:00;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;4.02.2022;Expander-4;Mekanik;Koni Arızası;Koni Hortumu Değişimi;;4.02.2022;4.02.2022;14:00;14:30;30;Expander-4 koni hortumu patlamıştı yenisi ile değiştirildi
+Arıza;7.02.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;;7.02.2022;7.02.2022;09:40;10:30;50;Pres-4 ön ayna cıvata kesmişti kaynak ile diskten çıkartılıp yenileri takıldı
+Arıza;7.02.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;7.02.2022;7.02.2022;10:30;10:50;20;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;8.02.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;8.02.2022;8.02.2022;08:10;08:30;20;2 tane patlak elek vardı değiştirildi
+Arıza;8.02.2022;Paketleme-4;Mekanik;Motor Arızası;Motor Dişli Değişimi;1;8.02.2022;8.02.2022;13:00;13:45;45;Paketleme-4 zincirlinin motor dişlisi değiştirildi
+Arıza;8.02.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;8.02.2022;8.02.2022;09:15;09:35;20;1 tane patlak elek vardı değiştirildi
+Bakım;9.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;9.02.2022;9.02.2022;02:30;03:10;40;Elekler ve çekiçler kontrol edildi
+Arıza;10.02.2022;Expander-1;Mekanik;Yağ Soğutucu Filtre Arızası;Yağ Soğutucu Filtre Geğişimi;;10.02.2022;10.02.2022;12:00;12:10;10;Expander-1 yağ soğutucu filtresi değiştirildi
+Arıza;10.02.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Arızası;2;10.02.2022;10.02.2022;08:30;08:50;20;2 tane patlak elek vardı değiştirildi
+Arıza;10.02.2022;Değirmen-2;Mekanik;Üst Besleme Arızası;Üst Besleme Arızası;;10.02.2022;10.02.2022;10:30;11:00;30;Değirmen-2 üst beslemesi sıkışmıştı içi açılıp kaldırıldı
+Bakım;10.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;10.02.2022;10.02.2022;16:15;16:25;10;Elekler 4*3 oldu. Vuran taraf 3
+Bakım;10.02.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;10.02.2022;10.02.2022;16:25;16:40;15;Elekler 4*3 oldu. Vuran taraf 3
+Arıza;10.02.2022;Değirmen-2;Mekanik;Mıknatıs Kapağı Arızası;Mıknatıs Kapağı Arızası;;10.02.2022;10.02.2022;17:20;18:20;60;Değirmen-2 mıknatıs kapağı mal kaçırıyordu yeni delikler açılıp sorun giderildi
+Arıza;10.02.2022;Expander-1;Mekanik;Yağ Soğutucu Filtre Arızası;Yağ Soğutucu Filtre Geğişimi;;10.02.2022;10.02.2022;18:10;18:40;30;Expander-1 yağ soğutucu filtresi değiştirildi
+Arıza;11.02.2022;Değirmen-1;Mekanik;Rulman Arızası;Rulman Değişimi;;11.02.2022;11.02.2022;00:30;01:45;75;Değirmen-1 rulman dağılmıştı soğutulup söküldü sabah değişimi yapılacaktır
+Arıza;11.02.2022;Değirmen-1;Mekanik;Rulman Arızası;Rulman Değişimi;;11.02.2022;11.02.2022;08:10;10:10;120;Değirmen-1 rulman değişimi yapılmıştır
+Arıza;11.02.2022;Pres-4;Mekanik;Rulo Arızası;Rulo Değişimi;2;11.02.2022;11.02.2022;10:30;12:30;120;Pres-4 rulo değişimi yapıldı. Ruloların milleri kaynatıldı
+Bakım;11.02.2022;Expander-1;Mekanik;Redüktör Yağ Bakımı;Redüktör Yağ Bakımı;;11.02.2022;11.02.2022;10:45;12:00;75;Expander-1 redüktör içi temizlendi ve yağ değişimi yapıldı
+Arıza;11.02.2022;Değirmen-1;Mekanik;Rakon Arızası;Rakon Değişimi;;11.02.2022;11.02.2022;14:00;15:00;60;Değirmen-1 rakonu tornada ayarlandı yerine takıldı
+Arıza;11.02.2022;Expander-1;Mekanik;Yağ Soğutucu Filtre Arızası;Yağ Soğutucu Filtre Arızası;;11.02.2022;11.02.2022;15:40;16:20;40;Expander-1 yağ soğutucu filtresi arıza gösteriyordu sökülüp kontrolleri sağlandı
+Arıza;11.02.2022;Paketleme-4;Mekanik;Etiket Makine Arızası;Rulo Mili Arızası;;11.02.2022;11.02.2022;18:40;19:15;35;Paketleme-4 rulo mili yerinden çıkmıştı yerine takıldı
+Arıza;12.02.2022;Pres-3;Mekanik;Rulo Arızası;Rulo Değişimi;2;12.02.2022;12.02.2022;08:10;11:00;155;Pres-3 rulo değişimi yapıldı çıkma rulo takıldı
+Bakım;12.02.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;2;12.02.2022;12.02.2022;12:00;15:00;120;Torna atalyösinde 2 adet rulo toplanıp hazırlandı
+Bakım;12.02.2022;Pres-3;Mekanik;Rulo Bakımı;Rulo Toplama;2;12.02.2022;12.02.2022;15:00;17:30;135;Torna atalyösinde 2 adet rulo toplanıp hazırlandı
+Arıza;14.02.2022;Pres-1;Mekanik;Pompa Arızası;Pompa Değişimi;1;14.02.2022;14.02.2022;15:50;16:20;30;1 nolu günlük pres pompası değişti
+Arıza;14.02.2022;Pres-2;Mekanik;Rulo Arızası;Rulo Değişimi;2;14.02.2022;14.02.2022;08:30;09:30;60;Pres-2 rulo değişimi yapıldı. Çıkma rulo takıldı
+Arıza;14.02.2022;Pres-2;Mekanik;Disk Arızası;Disk Değişimi;1;14.02.2022;14.02.2022;09:30;12:45;180;Pres-2 disk değişimi yapıldı. Taşlanmış disk takıldı
+Arıza;14.02.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;14.02.2022;14.02.2022;20:20;20:50;30;Değirmen-1 beslemesi sıkışmıştı açıldı
+Arıza;15.02.2022;Değirmen-2 ;Mekanik;Elek Kelepçe Arızası;Elek Kelepçe Değişimi;1;15.02.2022;15.02.2022;09:00;09:20;20;Değirmen-2 elek kelepçesi değiştirildi
+Bakım;15.02.2022;Pres-1;Mekanik;Pres Bakımı;Pres Bakımı;;15.02.2022;15.02.2022;08:00;08:30;30;Pres-1 disk rulo bakımı ve ayarı yapıldı
+Bakım;15.02.2022;Pres-2;Mekanik;Pres Bakımı;Pres Bakımı;;15.02.2022;15.02.2022;08:30;09:15;45;Pres-2 disk rulo bakımı ve ayarı yapıldı
+Bakım;15.02.2022;Pres-3;Mekanik;Pres Bakımı;Pres Bakımı;;15.02.2022;15.02.2022;09:15;10:00;45;Pres-3 disk rulo bakımı ve ayarı yapıldı
+Arıza;15.02.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;2;15.02.2022;15.02.2022;19:20;19:50;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;15.02.2022;Paketleme-1;Mekanik;Etiket Makine Arızası;Rulo Mili Arızası;;15.02.2022;15.02.2022;23:50;00:20;30;Eski fabrika Paketleme-1 rulo mili yerinden çıkmıştı yerine takıldı
+Arıza;16.02.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;4;16.02.2022;16.02.2022;10:30;11:10;40;Pres-4 ön ayna civataları kesmişti çıkarıldı yenileri takıldı. 
+Bakım;16.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;16.02.2022;16.02.2022;12:00;12:20;20;Elekler 3*3 oldu. 
+Bakım;16.02.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;16.02.2022;16.02.2022;12:20;12:40;20;Elekler 3*3 oldu. 
+Arıza;16.02.2022;Kondisyonel-4;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;16.02.2022;16.02.2022;17:40;18:40;60;Kondisyonel-4  kayışları yandı, değiştirildi.
+Bakım;17.02.2022;Expander-4;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;17.02.2022;17.02.2022;15:00;16:00;60;Expander-4 stop cıvata kontrolleri yapıldı. 1 tanesi değiştirildi
+Bakım;17.02.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;17.02.2022;17.02.2022;09:00;11:00;120;Çekiçler ters-düz yapıldı. Elekler 5*4
+Bakım;17.02.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;17.02.2022;17.02.2022;12:00;14:00;120;Çekiçler ters-düz yapıldı. Elekler 5*4
+Arıza;17.02.2022;Paketleme-1;Mekanik;Kantar Arızası;Kantar Piston Kırılması;;17.02.2022;17.02.2022;20:30;21:00;30;Eski fabrika kantar pistonu kırılmıştı kaynak ile sorun giderildi
+Arıza;17.02.2022;Sarsak-1;Mekanik;Hava Kilidi Arızası;Kaplin Değişimi;1;17.02.2022;17.02.2022;22:45;00:00;75;Sarsak -1 hava kilidi kaplini değiştirildi
+Arıza;18.02.2022;Kondisyonel-1;Mekanik;Vinas Arızası;Vinas Arızası;;18.02.2022;18.02.2022;09:30;11:00;90;Kondisyonel-1 vinas borusu patlamıştı değiştirildi
+Bakım;18.02.2022;Mikser;Mekanik;Mikser Vibratör Bakımı;Mikser Vibratör Bakımı;;18.02.2022;18.02.2022;14:25;14:40;15;Mikser üstü vibratör gevşekti sıkıldı
+Bakım;18.02.2022;Expander-1;Mekanik;Toz Keçe Bakımı;Toz Keçe Değişimi;;18.02.2022;18.02.2022;08:10;10:15;125;Expander-1 toz keçesinde kaçak vardı değişitirildi
+Bakım;18.02.2022;Pres-1;Mekanik;Disk Bakımı;Disk Delikleri Açıldı;;18.02.2022;18.02.2022;10:15;12:00;105;Pres-1 disk delikleri açıldı 
+Arıza;19.02.2022;Mikser;Mekanik;Mısır Suyu Pompa Arızası;Mısır Suyu Pompa Değişimi;1;19.02.2022;19.02.2022;08:10;09:20;70;Yeni fabrika miksere mısır suyu basan pompa değişimi yapıldı
+Arıza;19.02.2022;Pres-1;Mekanik;Motor Kayış Arızası;Motor Kayış Değişimi;;19.02.2022;19.02.2022;13:00;16:20;200;Pres-1 motor kayışları komplr değiştirildi
+Arıza;21.02.2022;Pres Elevatörü-3;Mekanik;Akış Arızası;Akış Arızası;;21.02.2022;21.02.2022;02:40;02:55;15;Pres elevatörü-3 akışında dlik vardı kapatıldı
+Bakım;21.02.2022;Mikser;Mekanik;Mikser Bakımı;Mikser Bakımı;;21.02.2022;21.02.2022;08:10;09:30;80;Yeni fabrika mikserin rulmanları yağlandı ve toz atan yerleri kapatıldı
+Arıza;21.02.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;7;21.02.2022;21.02.2022;09:45;11:00;75;Pres-4 ön aynasında 7 tane diskte 2 tane çivata kesmişti kaynak ile çıkartılıp yenileri takıldı
+Arıza;21.02.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;21.02.2022;21.02.2022;19:25;19:45;20;Değirmen-1 beslemesi sıkışmıştı açıldı
+Arıza;21.02.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;2;21.02.2022;21.02.2022;21:05;22:55;110;Pres-4 sigorta kemişti değişim yapıldı
+Bakım;22.02.2022;Pres-1;Mekanik;Motor Bakımı;Motor Kayış Bakımı;;22.02.2022;22.02.2022;08:30;09:00;30;Pres-1 motor kayışları gevşekti gerilip ayarlandı
+Bakım;22.02.2022;Expander-3;Mekanik;Ön Gömlek Bakımı;Ön Gömlek Değişimi;1;22.02.2022;22.02.2022;09:30;11:30;105;Expander-3 ön gömlek değişimi yapıldı
+Bakım;22.02.2022;Expander-4;Mekanik;Padıl Bakımı;Padıl Değişimi;7;22.02.2022;22.02.2022;11:30;16:30;225;Expander-3 padıl değişimi yapıldı
+Bakım;23.02.2022;Expander-4;Mekanik;Ön Ayna Bakımı;Ön Ayna Bakımı;;23.02.2022;23.02.2022;08:30;13:30;300;Expander-4 ön ayna kırık çivataları çıkartıldı yerlerine yeni çivatalar takıldı
+Bakım;23.02.2022;Expander-4;Mekanik;Sigorta Bakımı;Sigorta Bakımı;;23.02.2022;23.02.2022;13:30;16:00;150;Expander-4 sigorta burçları değişitirldi
+Arıza;24.02.2022;Kondisyonel-1;Mekanik;Vinas Arızası;Vinas Valf Arızası;;24.02.2022;24.02.2022;08:50;09:40;50;Kondisyonel-1 vinas valften kaçırıyordu keçeler değiştirildi
+Arıza;25.02.2022;Expander-3;Mekanik;Isı Sensörü Arızası;Isı Sensörü Arızası;;25.02.2022;25.02.2022;15:50;16:00;10;Expander-3 ısı sensör arızası veriyordu bakıldı
+Arıza;25.02.2022;Paketleme-3;Mekanik;Kefe Arızası;Kefe Arızası;;25.02.2022;25.02.2022;00:30;00:55;25;Paketleme-3 1 nolu kefe fazla mal veriyorduklepeler kontrol edildi
+Bakım;26.02.2022;Paketleme-2;Mekanik;Zincirli Padıl Bakımı;Zincirli Padıl Değişimi;600;26.02.2022;26.02.2022;12:45;13:45;60;Paketleme-2 zincirlinin padıllları değiştiirldi
+Bakım;27.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;27.02.2022;27.02.2022;01:10;01:25;15;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;27.02.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;27.02.2022;27.02.2022;01:25;01:40;15;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;27.02.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;27.02.2022;27.02.2022;22:00;22:10;10;Elekler 4*3 oldu
+Bakım;27.02.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;27.02.2022;27.02.2022;22:10;22:20;10;Elekler 4*3 oldu
+Bakım;28.02.2022;Paketleme-2;Mekanik;Zincirli Padıl Bakımı;Zincirli Padıl Değişimi;;28.02.2022;28.02.2022;02:30;03:30;60;Paketleme zincirlileri için zincir ve padıllar hazırlık yapıldı yedekte bekletilmek için
+Bakım;28.02.2022;Pres-1;Mekanik;Rulo Bakımı;Rulo Bakımı;;28.02.2022;28.02.2022;09:30;11:00;90;Pres-1 2 adet rulo rulmanları çıkartılıp temizliği yapıldı
+Bakım;28.02.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Bakımı;;28.02.2022;28.02.2022;11:00;12:30;90;Pres-2 2 adet rulo rulmanları çıkartılıp temizliği yapıldı
+Bakım;28.02.2022;Pres-3;Mekanik;Rulo Bakımı;Rulo Bakımı;;28.02.2022;28.02.2022;13:45;15:20;95;Pres-3 2 adet rulo rulmanları çıkartılıp temizliği yapıldı
+Bakım;28.02.2022;Pres-4;Mekanik;Rulo Bakımı;Rulo Bakımı;;28.02.2022;28.02.2022;15:20;17:00;100;Pres-4 2 adet rulo rulmanları çıkartılıp temizliği yapıldı
+Arıza;1.03.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;1.03.2022;1.03.2022;09:10;10:00;50;Pres eleği-2 lastiği patlaktı değiştirildi
+Bakım;1.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;1.03.2022;1.03.2022;08:30;08:40;10;Elekler 4*4 oldu
+Bakım;1.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;1.03.2022;1.03.2022;08:40;08:50;10;Elekler 4*4 oldu
+Arıza;1.03.2022;Mikser;Mekanik;Mısır Suyu Pompa Arızası;Mısır Suyu Pompa Değişimi;;1.03.2022;1.03.2022;14:00;15:10;70;Yeni fabrika miksere mısır suyu basan pompa değişimi yapıldı
+Arıza;1.03.2022;Kondisyonel-4;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;1.03.2022;1.03.2022;19:30;20:15;45;Kondisyonel-4  kayışları yandı, değiştirildi.
+Arıza;4.03.2022;Paketleme-4;Mekanik;Kefe Arızası;Kefe Arızası;;4.03.2022;4.03.2022;04:45;04:55;10;Yeni fabrika paketleme-4 kefe pistonun yerinden çıkmıştı takıldı
+Arıza;4.03.2022;Sarsak-3;Mekanik;Sarsak Arızası;Sarsak Arızası;;4.03.2022;4.03.2022;14:30;14:55;25;Sarsak-3 mal kaçırıyordu kaçak yerleri kapatıldı
+Bakım;5.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;5.03.2022;5.03.2022;09:00;09:15;15;Elekler 4*4 oldu
+Bakım;5.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;5.03.2022;5.03.2022;09:15;09:30;15;Elekler 4*4 oldu
+Bakım;5.03.2022;Pres-4;Mekanik;Motor Kayış Bakımı;Motor Kayış Bakımı;;5.03.2022;5.03.2022;09:00;09:30;30;Pres-4 motor kayışları gerildi
+Arıza;5.03.2022;Paketleme-3;Mekanik;Zincir Arızası;Zincir Arızası;;5.03.2022;5.03.2022;11:00;12:00;60;Paketleme-3 zinciri ek yerinden koptu yapıldı
+Bakım;7.03.2022;Expander-4;Mekanik;Koni Yağ Bakımı;Koni Yağ Bakımı;;7.03.2022;7.03.2022;15:00;15:35;35;Expander-4 koni yağ değişimi yapıldı
+Arıza;7.03.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;7.03.2022;7.03.2022;18:20;18:35;15;Değirmen-1 beslemesi sıkışmıştı açıldı
+Bakım;8.03.2022;Mikser;Mekanik;Mikser Bakımı;Mikser Bakımı;;8.03.2022;8.03.2022;13:50;14:10;20;Yeni fabrika mikserde kaçaklar vardı kapatıldı
+Arıza;8.03.2022;Mikser ;Mekanik;Havalı Vana Arızası;Havalı Vana Arızası;;8.03.2022;8.03.2022;08:30;12:00;210;Yeni fabrika mikser yanındaki tankların havalı vanaları kaçak vardı yapıldı
+Arıza;8.03.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;8.03.2022;8.03.2022;08:20;08:30;10;2 adet patlak elek vardı değiştirildi
+Arıza;9.03.2022;Expander-3;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;9.03.2022;9.03.2022;11:30;12:10;40;Expander-3 kırıcı sıkışmıştı temizlendi
+Bakım;9.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;9.03.2022;9.03.2022;12:00;12:08;8;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;9.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;9.03.2022;9.03.2022;12:08;12:15;7;Değirmen-2 elek ve çekiçler kontrol edildi
+Bakım;9.03.2022;Paketleme-1;Mekanik;Kefe Motor Bakımı;Kefe Motor Bakımı;;9.03.2022;9.03.2022;14:00;16:00;120;Eski fabrika paketleme-1 kefe motoru için redüktör ve motor hazırlandı
+Bakım;9.03.2022;Paketleme-2;Mekanik;Vibratör Bakımı;Vibratör Bakımı;;9.03.2022;9.03.2022;14:00;15:15;75;Eski fabrika paketleme-2 bunkere redüktör kaynatıldı
+Arıza;10.03.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;10.03.2022;10.03.2022;17:00;17:15;15;Değirmen-1 beslemesi sıkışmıştı açıldı
+Bakım;11.03.2022;Pres-1;Mekanik;Pres Bakımı;Pres Bakımı;;11.03.2022;11.03.2022;09:30;12:00;150;Pres-1 rulmanları kontrol edilip yağlandı sabitleme ayağı kırıktı kaynak yapıldı
+Bakım;11.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;11.03.2022;11.03.2022;21:25;21:50;25;Elekler4*3 oldu vuran taraf 3
+Bakım;11.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;11.03.2022;11.03.2022;21:50;22:05;15;Elekler4*3 oldu vuran taraf 3
+Arıza;14.03.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;14.03.2022;14.03.2022;03:30;03:45;15;Sarsak-3 piston açmıyordu hava hortumu değiştirildi
+Bakım;14.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;14.03.2022;14.03.2022;04:30;04:50;20;Elekler 3*3 oldu
+Bakım;14.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;14.03.2022;14.03.2022;04:50;05:10;20;Elekler 3*3 oldu
+Bakım;15.03.2022;Değirmen-2;Mekanik;Alt Çene Bakımı;Alt Çene Değişimi;2;15.03.2022;15.03.2022;09:00;12:00;180;Değirmen-2 alt çene değişimi yapıldı
+Bakım;15.03.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;15.03.2022;15.03.2022;12:00;14:00;120;Değirmen-2 çekiç değişimi yapıldı
+Bakım;15.03.2022;Değirmen-2;Mekanik;Mil Bakımı;Mil Değişimi;16;15.03.2022;15.03.2022;14:00;16:00;120;Değirmen-2 mil değişimş yapıldı
+Bakım;15.03.2022;Expander-4;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;15.03.2022;15.03.2022;11:30;13:30;120;Expander-4 kafa padılı değimi yapıldı
+Bakım;15.03.2022;Expander-4;Mekanik;Taç Bakımı;Taç Değişimi;1;15.03.2022;15.03.2022;13:30;14:50;80;Expander-4 taç değişimi yapıldı
+Bakım;15.03.2022;Expander-4;Mekanik;Koni Bakımı;Koni Değişimi;1;15.03.2022;15.03.2022;14:50;15:40;50;Expander-4 koni değişimi yapıldı
+Bakım;15.03.2022;Expander-4;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Değişimi;6;15.03.2022;15.03.2022;15:40;16:30;50;Expander-4 6 adet stop cıvata değişimi yapıldı
+Bakım;15.03.2022;Değirmen-1;Mekanik;Alt Çene Bakımı;Alt Çene Değişimi;2;15.03.2022;15.03.2022;08:30;12:00;210;Değirmen-1 alt çene değişimi yapıldı
+Bakım;15.03.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;15.03.2022;15.03.2022;12:00;14:00;120;Değirmen-1 çekiç değişimi yapıldı
+Bakım;15.03.2022;Değirmen-1;Mekanik;Mil Bakımı;Mil Değişimi;16;15.03.2022;15.03.2022;14:00;16:20;140;Değirmen-1 mil değişimş yapıldı
+Arıza;15.03.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;15.03.2022;15.03.2022;19:00;19:30;30;Sarsak-3 piston açmıyordu hava hortumu değiştirildi
+Bakım;16.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;16.03.2022;16.03.2022;18:00;18:15;15;Elekler 5*4'ti 5*5 yapıldı
+Bakım;16.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;16.03.2022;16.03.2022;18:15;18:35;20;Elekler 5*4'ti 5*5 yapıldı
+Arıza;17.03.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;2;17.03.2022;17.03.2022;08:15;08:25;10;2 adet patlak elek vardı değiştirildi
+Bakım;17.03.2022;Paketleme-1;Mekanik;Koruma Kapağı;Koruma Kapağı;;17.03.2022;17.03.2022;11:20;11:40;20;Eski fabrika paketleme-1 kefe motorunun koruma kapağı yerine takıldı
+Bakım;17.03.2022;Pres-1;Mekanik;Rulo Bakımı;Rulo Toplama;2;17.03.2022;17.03.2022;14:00;16:40;160;2 adet sıfır rulo toplandı
+Arıza;17.03.2022;Pres-1;Mekanik;Vinas Arızası;Pompa Sıkışması;;17.03.2022;17.03.2022;18:10;18:30;20;Pres-1 vinas pompası sıkışmıştı kaldırıldı
+Bakım;18.03.2022;Sarsak-4;Mekanik;Sarsak Bakımı;Sarsak Bakımı;;18.03.2022;18.03.2022;08:10;08:40;30;Sarsak-4 malı sıcak sallıyordu alt ve üst saçlar kontrol edildi
+Arıza;21.03.2022;Pres-2;Mekanik;Vinas Arızası;Vinas Arızası;;21.03.2022;21.03.2022;16:40;17:00;20;Pres-2 vinas tesisatında kaçak vardı kaynatıldı
+Bakım;21.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;21.03.2022;21.03.2022;23:00;23:15;15;Elekler kontrol edildi
+Bakım;21.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;21.03.2022;21.03.2022;23:15;23:30;15;Elekler kontrol edildi
+Bakım;22.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;22.03.2022;22.03.2022;08:00;08:30;30;Elekler 5*4 yapıldı
+Bakım;22.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;22.03.2022;22.03.2022;08:30;09:00;30;Elekler 5*4 yapıldı
+Bakım;22.03.2022;Pres Fanı;Mekanik;Pres Fanı;Pres Fanı;;22.03.2022;22.03.2022;10:00;16:30;300;5. kattaki pres fanı 7. kata çıkarıldı
+Arıza;22.03.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Sıkışması;;22.03.2022;22.03.2022;16:30;17:00;30;Değirmen-1 beslemesi sıkışmıştı açıldı
+Arıza;22.03.2022;Kondisyonel-1;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;22.03.2022;22.03.2022;17:25;18:20;55;Kondisyonel-1  kayışları yandı, değiştirildi.
+Bakım;23.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;23.03.2022;23.03.2022;22:10;22:40;30;Elekler 4*4 yapıldı
+Bakım;23.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;23.03.2022;23.03.2022;22:40;23:00;20;Elekler 4*4 yapıldı
+Arıza;24.03.2022;Pres-4;Mekanik;Pres Arızası;Pres Arızası;;24.03.2022;24.03.2022;00:30;01:40;70;Pres-4 gitmiyordu rulo söküldü sabah disk ve rulolar değiştirelecek
+Arıza;24.03.2022;Pres-4;Mekanik;Disk Arızası;Dirsek Değişimi;1;24.03.2022;24.03.2022;08:00;12:00;240;Pres-4 disk değişimi yapıldı taşlanmış disk takıldı
+Arıza;24.03.2022;Pres-4;Mekanik;Rulo Arızası;Rulo Değişimi;2;24.03.2022;24.03.2022;12:00;14:15;135;Pres-4 rulo değişimi yapıldı sıfır rulo takıldı
+Arıza;24.03.2022;Paketleme-2;Mekanik;Etiket Makine Arızası;Rulo Mili Arızası;1;24.03.2022;24.03.2022;20:10;20:45;35;Paketleme-2 rulo mili yerinden çıkmıştı yerine takıldı
+Bakım;25.03.2022;Pres-1;Mekanik;Kaplin Yatağı Bakımı;Kaplin Yatağı Bakımı;;25.03.2022;25.03.2022;08:00;09:00;60;Pres-1 kaplin yatağının maşonu sıkıldı yağları kontrol edildi
+Arıza;26.03.2022;Sarsak-3;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;26.03.2022;26.03.2022;00:40;01:15;35;Sarsak-3 kapakları açma kapamam yapmıyordu sigortası değiştirildi
+Arıza;26.03.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;4;26.03.2022;26.03.2022;08:30;08:50;20;4 tane patlak elek vardı değiştirildi
+Bakım;26.03.2022;Paketleme-4;Mekanik;Bant Bakımı;Bant Bakımı;;26.03.2022;26.03.2022;13:00;14:00;60;Paketleme-4 çuval taşıma bandına çuval dayama saçı kaynatılıp ayarlandı
+Arıza;27.03.2022;Mikser;Mekanik;Vinas Arızası;Valf Yağlaması;;27.03.2022;27.03.2022;23:20;23:40;20;Eski fabrika mikserin kapakları takılıyordu valfleri yağlandı
+Bakım;28.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;28.03.2022;28.03.2022;00:30;00:45;15;Elekler 4*3 oldu
+Bakım;28.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;28.03.2022;28.03.2022;00:45;01:00;15;Elekler 4*3 oldu
+Bakım;28.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;28.03.2022;28.03.2022;04:00;04:10;10;Elekler 3*3 oldu
+Bakım;28.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;28.03.2022;28.03.2022;04:10;04:20;10;Elekler 3*3 oldu
+Bakım;28.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;28.03.2022;28.03.2022;08:25;09:15;50;Elekler 5*4 oldu. Yön değişti
+Bakım;28.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;28.03.2022;28.03.2022;09:15;10:00;45;Elekler 5*4 oldu. Yön değişti
+Arıza;28.03.2022;Paketleme-4;Mekanik;Kefe Arızası;Kefe Arızası;;28.03.2022;28.03.2022;08:45;09:30;45;Pakatleme-4 kefesinin hava hortumu kopmuştu hortum takıldı
+Arıza;29.03.2022;Paketleme-4;Mekanik;Kızak Arızası;Kızak Arızası;;29.03.2022;29.03.2022;13:30;14:00;30;Paketleme-4 çuvallar yamuk geliyordu kızağa bakıldı açık olan yerler kapatıldı
+Arıza;29.03.2022;Mikser;Mekanik;Vinas Pompa Arızası;Vinas Pompa Arızası;;29.03.2022;29.03.2022;18:30;19:00;30;Eski fabrika 2. kattaki vinas pompası arızaya geçiyordu içi açılıp temizlendi
+Arıza;29.03.2022;Mikser;Mekanik;Nozul Arızası;Nozul Arızası;;29.03.2022;29.03.2022;22:30;23:15;45;Eski fabrika mikserin nozulları temizlendi
+Arıza;30.03.2022;Kondisyonel-1;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;30.03.2022;30.03.2022;11:00;12:00;60;Kondisyonel-1  kayışları yandı, değiştirildi.
+Arıza;30.03.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;30.03.2022;30.03.2022;20:45;21:15;30;1 tane patlak elek vardı değiştirildi
+Bakım;31.03.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;31.03.2022;31.03.2022;22:15;22:30;15;Elekler 4*4 yapıldı
+Bakım;31.03.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;31.03.2022;31.03.2022;22:30;22:45;15;Elekler 4*4 yapıldı
+Arıza;2.04.2022;Expander;Mekanik;Sigorta Arızası;Sigorta Değişimi;;2.04.2022;2.04.2022;00:30;04:00;210;Eski fabrika expander kasnağı sigorta kesmişti değiştirildi. Expander sıkışmıştı kaldırıldı
+Arıza;2.04.2022;Kondisyonel-1;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;2.04.2022;2.04.2022;08:35;09:20;45;Kondisyonel-1  kayışları yandı, değiştirildi.
+Bakım;2.04.2022;Sarsak-1;Mekanik;Alt Saç Bakımı;Alt Saç Bakımı;;2.04.2022;2.04.2022;09:30;09:45;15;Sarsak-1 alt saç kaçırıyordu ayarlanma yapıldı
+Bakım;2.04.2022;Sarsak-2;Mekanik;Alt Saç Bakımı;Alt Saç Bakımı;;2.04.2022;2.04.2022;09:45;10:00;15;Sarsak-2 alt saç kaçırıyordu ayarlanma yapıldı
+Arıza;4.04.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;4.04.2022;4.04.2022;09:00;09:20;20;Expander-2 kırıcı rulman ayağı kopmuştu kaynatıldı
+Arıza;4.04.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;4.04.2022;4.04.2022;08:30;09:00;30;1 tane patlak elek vardı değiştirildi
+Arıza;4.04.2022;Pres Eleği-2;Mekanik;Akış Arızası;Akış Arızası;;4.04.2022;4.04.2022;14:30;15:00;30;Pres eleği-2 akışa 4 adet kova gelmişti alındı
+Bakım;5.04.2022;Pres Elevatörü-1;Mekanik;Kova Bakımı;Kova Değişimi;20;5.04.2022;5.04.2022;08:10;09:30;80;Pres elevatörü-1 eksik ve kırık kovalar vardı değiştirildi
+Bakım;5.04.2022;Pres Elevatörü-2;Mekanik;Kova Bakımı;Kova Değişimi;23;5.04.2022;5.04.2022;09:30;10:30;60;Pres elevatörü-2 eksik ve kırık kovalar vardı değiştirildi
+Arıza;5.04.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;5.04.2022;5.04.2022;10:45;11:30;45;Sarsak-3 üst pistonun oturduğu ayağın demiri çatlamıştı değiştirildi
+Bakım;5.04.2022;Pres Elevatörü-3;Mekanik;Tambur Bakımı;Tambur Bakımı;;5.04.2022;5.04.2022;11:00;11:40;40;Pres elevatörü-3 motor tarafındaki tamburu ayarlandı
+Bakım;6.04.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;6.04.2022;6.04.2022;00:10;00:35;25;Elekler 4*3 oldu vuran taraf 3 oldu
+Bakım;6.04.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;6.04.2022;6.04.2022;00:35;01:00;25;Elekler 4*3 oldu vuran taraf 3 oldu
+Arıza;6.04.2022;Pres Eleği-1;Mekanik;Akış Arızası;Akış Arızası;;6.04.2022;6.04.2022;08:00;08:15;15;Pres eleği-1 akışından 2 adet kova alındı
+Arıza;6.04.2022;Paketleme-1;Mekanik;Kefe Arızası;Kefe Arızası;;6.04.2022;6.04.2022;14:00;15:30;90;Yeni fabrika paketleme-1 kefenin kantar mili kırılmıştı kaynatıldı
+Bakım;6.04.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;6.04.2022;6.04.2022;08:30;08:45;15;Elekler 3*3 oldu
+Bakım;6.04.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;6.04.2022;6.04.2022;08:45;09:00;15;Elekler 3*3 oldu
+Bakım;7.04.2022;Pres Elevatörü-4;Mekanik;Kestemit Bakımı;Kestemit Bakımı;;7.04.2022;7.04.2022;09:30;10:00;30;Yeni fabrika pres elevatörü-4 akıştaki kestamit bitmişti değiştirildi
+Bakım;7.04.2022;Pres Elevatörü;Mekanik;Elevatör Bakımı;Elevatör Bakımı;;7.04.2022;7.04.2022;13:20;16:00;160;Eski fabrika pres elevatörünün kovaları ve ek yeri kontrol edildi sağ-sol ayarı yapıldı
+Bakım;8.04.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;8.04.2022;8.04.2022;09:00;10:30;90;Yeni fabrika değirmen-1 çekiçler ters-düz yapıldı elekler 4*4 yapıldı
+Bakım;8.04.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;8.04.2022;8.04.2022;10:30;12:00;90;Yeni fabrika değirmen-2 çekiçler ters-düz yapıldı elekler 4*4 yapıldı
+Arıza;8.04.2022;Değirmen-1;Mekanik;Devir Bekçisi Arızası;Sensör Ayağı Değişimi;;8.04.2022;8.04.2022;22:40;23:50;70;Değirmen-1 devir bekçisi sensör ayağı değiştirildi
+Bakım;8.04.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;8.04.2022;8.04.2022;23:50;00:05;15;Elekler 5*4 yapıldı
+Arıza;9.04.2022;Expander-2;Mekanik;Ön Gömlek Arızası;Ön Gömlek Değişimi;1;9.04.2022;9.04.2022;00:30;01:40;70;Expander-2 ön gömleği dağılmıştı değiştirildi
+Arıza;9.04.2022;Expander-2;Mekanik;Kafa Padıl Arızası;Kafa Padıl Değişimi;1;9.04.2022;9.04.2022;01:40;02:40;60;Expander-2 kafa padıl değişimi yapıldı
+Arıza;9.04.2022;Expander-2;Mekanik;Stop Cıvata Arızası;Stop Cıvata Değişimi;3;9.04.2022;9.04.2022;02:40;03:00;20;Expander-2 3 adet stop civatası değiştirildi
+Arıza;9.04.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;9.04.2022;9.04.2022;03:00;03:30;30;Expander-2 kırıcı yaprakları kopmuştu kaynatıldı
+Arıza;9.04.2022;Pres-2;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;9.04.2022;9.04.2022;10:00;10:30;30;Pres-2 sigorta kesmişti değiştirildi
+Bakım;9.04.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;9.04.2022;9.04.2022;08:00;08:30;30;Elekler 5*4 yapıldı
+Arıza;9.04.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;9.04.2022;9.04.2022;08:00;09:50;110;Expander-2 kırıcı yaprakları kopmuştu kaynatıldı yeni elek takıldı
+Arıza;11.04.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Sıkışması;;11.04.2022;11.04.2022;08:00;08:30;30;Değirmen-1 beslemesi sıkışmıştı açıldı
+Arıza;12.04.2022;Pres-2;Mekanik;Vinas Pompa Arızası;Vinas Pompa Değişimi;1;12.04.2022;12.04.2022;08:00;09:50;110;Pres-2 vinas pompası değiştirildi
+Arıza;13.04.2022;Pres-3;Mekanik;Disk Arızası;Disk Değişimi;1;13.04.2022;13.04.2022;08:00;11:00;180;Pres-3 disk değişimi yapıldı taşlanmış disk takıldı
+Arıza;13.04.2022;Pres-3;Mekanik;Rulo Arızası;Rulo Değişimi;2;13.04.2022;13.04.2022;11:00;12:00;60;Pres-3 rulo değişimi yapıldı çıkma rulo takıldı
+Arıza;13.04.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;13.04.2022;13.04.2022;14:15;16:00;105;Pres eleği-2 lastiği patlaktı değiştirildi
+Arıza;13.04.2022;Pres-2;Mekanik;Rulo Arızası;Rulo Değişimi;2;13.04.2022;13.04.2022;14:15;16:30;135;Pres-2 rulo değişimi yapıldı çıkma rulo takıldı
+Bakım;14.04.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;14.04.2022;14.04.2022;08:00;08:15;15;Elekler 4*4 yapıldı
+Bakım;14.04.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;14.04.2022;14.04.2022;08:15;08:30;15;Elekler 4*4 yapıldı
+Arıza;14.04.2022;Pres-1;Mekanik;Disk Arızası;Disk Değişimi;1;14.04.2022;14.04.2022;08:15;10:30;135;Pres-1 disk değişimi yapıldı sıfır disk takıldı
+Arıza;14.04.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;14.04.2022;14.04.2022;10:30;12:30;120;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı
+Arıza;14.04.2022;Pres-1;Mekanik;Aşınma Ringi Arızası;Aşınma Ringi Değişimi;1;14.04.2022;14.04.2022;13:30;15:00;90;Pres-1 aşınma ringi değiştirildi
+Bakım;14.04.2022;Pres-3;Mekanik;Rulo Bakımı;Rulo Toplama;2;14.04.2022;14.04.2022;09:10;12:45;215;2 adet sıfır rulo toplandı
+Bakım;14.04.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;2;14.04.2022;14.04.2022;13:45;16:30;165;2 adet sıfır rulo toplandı
+Arıza;15.04.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;15.04.2022;15.04.2022;18:30;19:00;30;Yeni fabrika sarsak-3 piston valfinin hortumu değiştirildi
+Arıza;15.04.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;15.04.2022;15.04.2022;19:10;19:40;30;1 tane patlak elek vardı değiştirildi
+Bakım;18.04.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;18.04.2022;18.04.2022;12:00;12:20;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;18.04.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;18.04.2022;18.04.2022;12:20;12:40;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;19.04.2022;Expander-3;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;19.04.2022;19.04.2022;08:00;09:00;60;Expander-3 kafa padıl değiştirildi
+Arıza;19.04.2022;Paketleme-3;Mekanik;Dikiş Makinası Arızası;Dikiş Makinası Arızası;;19.04.2022;19.04.2022;21:10;21:30;20;Paketleme-3 dikiş makinasının kayışı kopmuştu değiştirildi
+Arıza;19.04.2022;Pres Elevatörü-1;Mekanik;Akış Arızası;Akış Arızası;;19.04.2022;19.04.2022;22:45;23:10;25;Yeni fabrika 1 nolu pres elevatörünün akışında delik vardı kapatıldı
+Bakım;20.04.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Değişimi;;20.04.2022;20.04.2022;08:30;16:30;480;Kondisyonel-2 melasiyerin padılları komple değiştirildi
+Arıza;20.04.2022;Pres-1;Mekanik;Bıçak Arızası;Bıçak Arızası;;20.04.2022;20.04.2022;23:10;23:40;30;Pres-1 bıçağı çıkmıştı yerine takıldı
+Arıza;21.04.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;21.04.2022;21.04.2022;18:40;19:30;50;Yeni fabrika pres eleği-2 lastik patlamıştı değişirildi
+Arıza;22.04.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;22.04.2022;22.04.2022;11:00;11:20;20;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Bakım;22.04.2022;Pres-1;Mekanik;Kasnak Bakımı;Rulman Değişimi;1;22.04.2022;22.04.2022;08:00;12:00;240;Pres-1 kasnak kaplin yanındaki yatak rulmanı değiştirildi
+Arıza;25.04.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;25.04.2022;25.04.2022;02:55;03:10;15;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Arıza;25.04.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;25.04.2022;25.04.2022;07:10;07:35;25;1 tane patlak elek vardı değiştirildi
+Bakım;25.04.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Bakımı;;25.04.2022;25.04.2022;09:20;09:30;10;Kondisyonel-2 padılları kontrol edildi
+Arıza;25.04.2022;Sarsak-4;Mekanik;Piston Arızası;Piston Arızası;;25.04.2022;25.04.2022;19:15;19:50;35;Yeni fabrika sarsak-4 alt piston açmıyordu bakıldı
+Arıza;26.04.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;26.04.2022;26.04.2022;08:30;08:50;20;2 tane patlak elek vardı değiştirildi
+Arıza;26.04.2022;Mikser;Mekanik;Mısır Suyu Pompa Arızası;Mısır Suyu Pompa Değişimi;1;26.04.2022;26.04.2022;08:10;09:20;70;Yeni fabrika miksere mısır suyu basan pompa değişimi yapıldı
+Bakım;26.04.2022;Kondisyonel-3;Mekanik;Padıl Bakımı;Padıl Bakımı;;26.04.2022;26.04.2022;08:15;08:30;15;Kondisyonel-3 padılları kontrol edildi
+Bakım;26.04.2022;Sarsak-3;Mekanik;Sensör Bakımı;Sensör Bakımı;;26.04.2022;26.04.2022;08:40;09:30;50;Yeni fabrika sarsak-3 üst sensörüne ayar yapıldı
+Arıza;26.04.2022;Kondisyonel-1;Mekanik;Vinas Borusu Arızası;Vinas Borusu Arızası;;26.04.2022;26.04.2022;23:30;00:00;30;Yeni fabrika kondisyonel-1 vinas borusu delikti kaynatıldı
+Arıza;27.04.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;27.04.2022;27.04.2022;18:10;18:40;30;2 tane patlak elek vardı değiştirildi
+Arıza;28.04.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Sıkışması;;28.04.2022;28.04.2022;01:30;02:00;30;Yeni fabrika değirmen-1 besleme sıkışmıştı kaldırıldı kova gelmiş
+Arıza;28.04.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;2;28.04.2022;28.04.2022;08:00;08:30;30;2 tane patlak elek vardı değiştirildi
+Arıza;28.04.2022;Değirmen-1;Mekanik;Değirmen Sıkışması;Değirmen Sıkışması;;28.04.2022;28.04.2022;20:30;20:55;25;Yeni fabrika değirmen-1 sıkışmıştı içi açılıp temizlendi
+Arıza;28.04.2022;Değirmen-1;Mekanik;Değirmen Sıkışması;Değirmen Sıkışması;;28.04.2022;28.04.2022;23:30;00:00;30;Yeni fabrika değirmen-1 sıkışmıştı içi açılıp temizlendi
+Arıza;29.04.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;29.04.2022;29.04.2022;19:00;19:30;30;1 tane patlak elek vardı değiştirildi
+Arıza;29.04.2022;Expander-1;Mekanik;Üst Klepe Arızası;Üst Klepe Arızası;;29.04.2022;29.04.2022;23:00;23:30;30;Yeni fabrika expander-1 üst klepe mal kaçırıyordu yapıldı
+Arıza;30.04.2022;Değirmen-2;Mekanik;Besleme Arızası;Besleme Sıkışması;;30.04.2022;30.04.2022;01:10;02:30;80;Yeni fabrika değirmen-2 beslemeye demir parçası gelmişti içi açılıp kardırıldı
+Arıza;30.04.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;30.04.2022;30.04.2022;08:40;09:00;20;1 tane patlak elek vardı değiştirildi
+Arıza;30.04.2022;Pres Elevatörü-2;Mekanik;Akış Arızası;Akış Arızası;;30.04.2022;30.04.2022;09:00;09:15;15;Yeni fabrika pres elevatörü-2 akışında kaçak vardı kapatıldı
+Bakım;5.05.2022;Expander-1;Mekanik;Taç Bakımı;Taç Değişimi;1;5.05.2022;5.05.2022;08:45;10:45;120;Expander-1 taç değişimi yapıldı
+Bakım;5.05.2022;Expander-1;Mekanik;Koni Bakımı;Koni Değişimi;1;5.05.2022;5.05.2022;10:45;11:45;60;Expander-1 koni değişimi yapıldı
+Bakım;5.05.2022;Expander-1;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;5.05.2022;5.05.2022;11:45;12:30;45;Expander-1 kafa padıl değişimi yapıldı
+Bakım;5.05.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;5.05.2022;5.05.2022;18:50;20:30;100;Expander-2 kırıcının iki adet bıçağı değiştirildi
+Bakım;5.05.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;5.05.2022;5.05.2022;19:00;19:25;25;Elekler 3 yapıldı vuran taraf 3
+Bakım;5.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;5.05.2022;5.05.2022;19:25;19:45;20;Elekler 3 yapıldı vuran taraf 3
+Arıza;5.05.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;5.05.2022;5.05.2022;21:35;22:00;25;1 tane patlak elek vardı değiştirildi
+Bakım;6.05.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;6.05.2022;6.05.2022;09:20;10:20;60;Değirmen-1 çekiç değişimi yapıldı
+Bakım;6.05.2022;Değirmen-1;Mekanik;Mil Bakımı;Mil Değişimi;16;6.05.2022;6.05.2022;10:20;10:45;25;Değirmen-1 mil değişimş yapıldı
+Bakım;6.05.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;6.05.2022;6.05.2022;10:45;11:45;60;Değirmen-2 çekiç değişimi yapıldı
+Bakım;6.05.2022;Değirmen-2;Mekanik;Mil Bakımı;Mil Değişimi;16;6.05.2022;6.05.2022;11:45;12:00;15;Değirmen-2 mil değişimş yapıldı
+Bakım;6.05.2022;Expander-2;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Bakımı;;6.05.2022;6.05.2022;08:00;08:45;45;Expander-2 kafa padıl bakımı yapıldı kontrol edildi
+Bakım;6.05.2022;Expander-2;Mekanik;Sitop Civata Bakımı;Sitop CivataDeğişimi;3;6.05.2022;6.05.2022;08:45;09:10;25;Expander-2 3 adet stop civatası değiştirildi
+Arıza;6.05.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;6.05.2022;6.05.2022;11:00;12:00;60;Expander-1 kırıcının iki adet bıçağı değiştirildi
+Bakım;6.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;6.05.2022;6.05.2022;22:15;23:00;45;Yeni fabrika değirmen-2 elekleri ve çeneleri kontrol edildi
+Arıza;7.05.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;3;7.05.2022;7.05.2022;18:40;19:30;50;3 tane patlak elek vardı değiştirildi
+Arıza;8.05.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;2;8.05.2022;8.05.2022;23:20;01:25;125;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;9.05.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;9.05.2022;9.05.2022;02:30;02:50;20;1 tane patlak elek vardı değiştirildi
+Arıza;9.05.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;9.05.2022;9.05.2022;08:05;08:30;25;2 tane patlak elek vardı değiştirildi
+Bakım;10.05.2022;Pres-4;Mekanik;Disk Bakımı;Disk Civata Değişimi;;10.05.2022;10.05.2022;10:30;16:00;330;Pres-4 ön ayna cıvata kesmişti kaynak ile diskten çıkartılıp yenileri takıldı
+Bakım;11.05.2022;Pres-4;Mekanik;Rulo Bakımı;Rulo Değişimi;2;11.05.2022;11.05.2022;10:50;12:30;100;Yeni fabrika pres-4 rulo değişimi yapıldı sıfır rulo takıldı
+Arıza;12.05.2022;Pres-4;Mekanik;Rulo Bakımı;Rulo Mili Değişimi;2;12.05.2022;12.05.2022;15:45;17:15;90;Yeni fabrika 4 nolu pres rulo milleri değiştirildi
+Bakım;13.05.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;13.05.2022;13.05.2022;21:30;21:45;15;Elekler 4*4 yapıldı
+Bakım;13.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;13.05.2022;13.05.2022;21:45;22:00;15;Elekler 4*4 yapıldı
+Arıza;14.05.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;14.05.2022;14.05.2022;03:10;03:30;20;1 tane patlak elek vardı değiştirildi
+Arıza;14.05.2022;Pres-1;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;14.05.2022;14.05.2022;05:00;05:35;35;Pres-1 sigorta kesmişti değiştirildi
+Bakım;14.05.2022;Pres-1;Mekanik;Pres Bakımı;Pres Bakımı;;14.05.2022;14.05.2022;08:15;09:45;90;Yeni fabrika pres-1 kuyruk mili kontrol edildi yağ basıldı göbek rulmanların yağı değiştirildi
+Arıza;14.05.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;14.05.2022;14.05.2022;08:10;08:40;30;1 tane patlak elek vardı değiştirildi
+Arıza;14.05.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;14.05.2022;14.05.2022;15:40;16:10;30;1 tane patlak elek vardı değiştirildi
+Arıza;15.05.2022;Paketleme-3;Mekanik;Dikiş Makinası Arızası;Dikiş Makinası Arızası;;15.05.2022;15.05.2022;23:40;00:45;65;Yeni fabrika paketleme-3 dikiş makinasının yukarı aşağı mili değiştirildi
+Arıza;16.05.2022;Pres Eleği-3;Mekanik;Elek Arızası;Elek Arızası;;16.05.2022;16.05.2022;09:00;09:20;20;Yeni fabrika pres eleği-3 elekte delik vardı değiştirildi
+Arıza;16.05.2022;Paketleme-2;Mekanik;Kefe Arızası;Kefe Arızası;;16.05.2022;16.05.2022;09:30;09:45;15;Yeni fabrika paketleme-2 kefenin piston ayağı kırılmıştı kaynak yapıldı
+Arıza;16.05.2022;Sarsak-2;Mekanik;Piston Arızası;Piston Arızası;;16.05.2022;16.05.2022;14:30;15:00;30;Yeni fabrika sarsak-2 alt piston demiri değiştirildi
+Bakım;18.05.2022;Sarsak-1;Mekanik;Sensör Bakımı;Sensör Bakımı;;18.05.2022;18.05.2022;17:00;17:15;15;Sarsak-1 sensör ayarı yapıldı
+Bakım;18.05.2022;Sarsak-2;Mekanik;Sensör Bakımı;Sensör Bakımı;;18.05.2022;18.05.2022;17:15;17:30;15;Sarsak-2 sensör ayarı yapıldı
+Bakım;18.05.2022;Sarsak-3;Mekanik;Sensör Bakımı;Sensör Bakımı;;18.05.2022;18.05.2022;17:30;17:50;20;Sarsak-3 sensör ayarı yapıldı
+Bakım;18.05.2022;Sarsak-4;Mekanik;Sensör Bakımı;Sensör Bakımı;;18.05.2022;18.05.2022;17:50;18:15;25;Sarsak-4 sensör ayarı yapıldı
+Arıza;19.05.2022;Sarsak-1;Mekanik;Piston Arızası;Piston Arızası;;19.05.2022;19.05.2022;01:30;01:55;25;Sarsak-1 alt saç açmıyordu bakıldı
+Arıza;19.05.2022;Sarsak-4;Mekanik;Role Arızası;Role Değişimi;;19.05.2022;19.05.2022;22:30;23:05;35;Sarsak-4 rolesi bozulmuştu değiştirildi
+Arıza;19.05.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;19.05.2022;19.05.2022;05:30;07:30;120;Expander-2 kırıcı bıçakları kırılmış elekleri bozmuştu. Elekler ve bıçaklar çıkarıldı
+Arıza;20.05.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;20.05.2022;20.05.2022;08:30;11:30;180;Expander-2 kırıcı bıçakları kırılmış elekleri bozmuştu. Elekler ve bıçaklar çıkarıldı
+Arıza;20.05.2022;Sarsak-3;Mekanik;Sensör Bakımı;Sensör Bakımı;;20.05.2022;20.05.2022;15:30;17:00;90;Sarsak-3 sensör ayarı yapıldı
+Bakım;21.05.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;21.05.2022;21.05.2022;23:00;23:15;15;Elekler 4*3 oldu vuran taraf 3
+Bakım;21.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;21.05.2022;21.05.2022;23:15;23:30;15;Elekler 4*3 oldu vuran taraf 3
+Arıza;22.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;1;22.05.2022;22.05.2022;03:15;03:50;35;1 adet patlak elek vardı değiştirildi
+Arıza;22.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;1;22.05.2022;22.05.2022;05:30;06:00;30;1 adet patlak elek vardı değiştirildi
+Bakım;23.05.2022;Değirmen-1;Mekanik;Yön Klepesi Bakımı;Yön Değişimi;;23.05.2022;23.05.2022;09:30;10:00;30;Değirmen-1 elekler 5*4 yapıldı yön değiştirildi
+Bakım;23.05.2022;Değirmen-2;Mekanik;Yön Klepesi Bakımı;Yön Değişimi;;23.05.2022;23.05.2022;10:00;10:30;30;Değirmen-2 elekler 5*4 yapıldı yön değiştirildi
+Bakım;23.05.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;23.05.2022;23.05.2022;16:30;16:40;10;Elekler 5*5 yapıldı
+Bakım;23.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;23.05.2022;23.05.2022;16:40;16:50;10;Elekler 5*5 yapıldı
+Arıza;23.05.2022;Mikser;Mekanik;Motor Kayış Arızası;Motor Kayış Değişimi;4;23.05.2022;23.05.2022;22:00;23:00;60;Eski fabrika mikser motor kayışları yanmıştı değiştirildi
+Bakım;24.05.2022;Expander-2;Mekanik;Taç Bakımı;Taç Değişimi;1;24.05.2022;24.05.2022;10:00;10:30;30;Expander-2 taç değişimi yapıldı
+Bakım;24.05.2022;Expander-2;Mekanik;Koni Bakımı;Koni Değişimi;1;24.05.2022;24.05.2022;10:30;11:00;30;Expander-2 koni değişimi yapıldı
+Bakım;24.05.2022;Paketleme-2;Mekanik;Kefe Arızası;Piston Değişimi;;24.05.2022;24.05.2022;16:00;16:35;35;Yeni fabrika 2 nolu paketleme kefesinin pistonu değiştirildi
+Arıza;25.05.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;25.05.2022;25.05.2022;09:00;09:50;50;Pres eleği-2 lastiği patlaktı değiştirildi
+Bakım;26.05.2022;Değirmen-2;Mekanik;Jet Filtre Bakımı;Jet Filtre Bakımı;;26.05.2022;26.05.2022;11:30;12:00;30;Değirmen-2 jet filtreleri kontrol edildi
+Bakım;27.05.2022;Sarsak-1;Mekanik;Sarsak Bakımı;Sarsak Bakımı;;27.05.2022;27.05.2022;08:00;12:00;240;Sarsak-1 soğutma sistemine  bakım yapıldı
+Bakım;27.05.2022;Sarsak-2;Mekanik;Sarsak Bakımı;Sarsak Bakımı;;27.05.2022;27.05.2022;12:00;15:30;210;Sarsak-2 soğutma sistemine  bakım yapıldı
+Bakım;27.05.2022;Değirmen-2;Mekanik;Lokal Filtre Bakımı;Lokal Filtre Değişimi;;27.05.2022;27.05.2022;08:00;15:30;450;Yeni fabrika değirmen-2 lokal filtre bezleri değiştirildi
+Arıza;27.05.2022;Mikser;Mekanik;Devir Bekçisi Arızası;Devir Bekçisi Değişimi;;27.05.2022;27.05.2022;21:00;22:20;80;Yeni fabrika mikserin devir bekçisi değiştirildi
+Arıza;28.05.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;28.05.2022;28.05.2022;08:00;08:30;30;1 tane patlak elek vardı değiştirildi
+Arıza;30.05.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;2;30.05.2022;30.05.2022;03:30;04:15;45;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;30.05.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;30.05.2022;30.05.2022;05:05;05:35;30;1 tane patlak elek vardı değiştirildi
+Bakım;30.05.2022;Pres-4;Mekanik;Baca Bakımı;Baca Bakımı;;30.05.2022;30.05.2022;08:00;16:30;510;Yeni fabrika 4 nolu presin havalandırma bacaları takıldı
+Arıza;30.05.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;2;30.05.2022;30.05.2022;12:00;12:30;30;2 tane patlak elek vardı değiştirildi
+Bakım;31.05.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;31.05.2022;31.05.2022;00:20;00:50;30;Elekler 5*4 yapıldı vuran taraf 4
+Bakım;31.05.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;31.05.2022;31.05.2022;00:50;01:15;25;Elekler 5*4 yapıldı vuran taraf 4
+Bakım;31.05.2022;Pres-2;Mekanik;Baca Bakımı;Baca Bakımı;;31.05.2022;31.05.2022;09:00;16:55;475;Yeni fabrika 2 nolu presin havalandırma bacaları takıldı
+Arıza;31.05.2022;Sarsak-4;Mekanik;Piston Arızası;Piston Arızası;;31.05.2022;31.05.2022;21:10;21:55;45;Yeni fabrika sarsak-4 üst sarsak piston ayağı kırılmıştı yeni ayak takıldı
+Arıza;31.05.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;2;31.05.2022;31.05.2022;22:55;23:30;35;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;1.06.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;1;1.06.2022;1.06.2022;00:10;00:35;25;1 tane patlak elek vardı değiştirildi
+Bakım;5.06.2022;Expander-1;Mekanik;Taç Bakımı;Taç Değişimi;1;5.06.2022;5.06.2022;08:45;10:45;120;Expander-1 taç değişimi yapıldı
+Bakım;5.06.2022;Expander-1;Mekanik;Koni Bakımı;Koni Değişimi;1;5.06.2022;5.06.2022;10:45;11:45;60;Expander-1 koni değişimi yapıldı
+Bakım;5.06.2022;Expander-1;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;5.06.2022;5.06.2022;11:45;12:30;45;Expander-1 kafa padıl değişimi yapıldı
+Bakım;5.06.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;5.06.2022;5.06.2022;18:50;20:30;100;Expander-2 kırıcının iki adet bıçağı değiştirildi
+Bakım;5.06.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;5.06.2022;5.06.2022;19:00;19:25;25;Elekler 3 yapıldı vuran taraf 3
+Bakım;5.06.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;5.06.2022;5.06.2022;19:25;19:45;20;Elekler 3 yapıldı vuran taraf 3
+Arıza;5.06.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;5.06.2022;5.06.2022;21:35;22:00;25;1 tane patlak elek vardı değiştirildi
+Bakım;6.06.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;6.06.2022;6.06.2022;09:20;10:20;60;Değirmen-1 çekiç değişimi yapıldı
+Bakım;6.06.2022;Pres-1;Mekanik;Rulo Bakımı;Rulo Toplama;;6.06.2022;6.06.2022;08:35;12:30;235;Torna atalyösinde 4 adet rulo toplanıp hazırlandı
+Bakım;7.06.2022;Değirmen-1;Mekanik;Elek Bakımı;Çekiç Kontrol;;6.06.2022;6.06.2022;08:30;08:45;15;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;8.06.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Kontrol;;7.06.2022;7.06.2022;08:45;09:00;15;Değirmen-2 elek ve çekiçler kontrol edildi
+Bakım;9.06.2022;Teleskopik Bant-1;Mekanik;Bant Bakımı;Bant Bakımı;;8.06.2022;8.06.2022;12:10;12:15;5;Teleskopik Bant-1 gergi ayarı yapıldı
+Bakım;9.06.2022;Teleskopik Bant-2;Mekanik;Bant Bakımı;Bant Bakımı;;9.06.2022;9.06.2022;12:15;12:20;5;Teleskopik Bant-2 gergi ayarı yapıldı
+Bakım;9.06.2022;Teleskopik Bant-3;Mekanik;Bant Bakımı;Bant Bakımı;;9.06.2022;9.06.2022;12:20;12:25;5;Teleskopik Bant-3 gergi ayarı yapıldı
+Bakım;9.06.2022;Teleskopik Bant-4;Mekanik;Bant Bakımı;Bant Bakımı;;9.06.2022;9.06.2022;12:25;12:30;5;Teleskopik Bant-4 gergi ayarı yapıldı
+Arıza;9.06.2022;Teleskopik Bant-2;Mekanik;Bant Arızası;Swich Arızası;;9.06.2022;9.06.2022;23:10;23:20;10;Swich takılı kalmıştı ayarlama yapıldı
+Arıza;9.06.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;;9.06.2022;9.06.2022;08:30;08:45;15;1 tane patlak elek vardı değiştirildi
+Bakım;9.06.2022;Değirmen-1;Mekanik;Selvo Bakım;Selvo Bakım;;9.06.2022;9.06.2022;14:30;14:50;20;Değirmen selvo kontrolleri yapıldı
+Bakım;10.06.2022;Değirmen-2;Mekanik;Selvo Bakım;Selvo Bakım;;9.06.2022;9.06.2022;14:50;15:15;25;Değirmen selvo kontrolleri yapıldı
+Arıza;11.06.2022;Paketleme-3;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;10.06.2022;10.06.2022;12:00;12:45;45;Paketleme-3 motor zincirlisi değiştirildi
+Arıza;12.06.2022;Pres-4;Mekanik;Elevatör Arızası;Elevatör Üst tambur Değişimi;1;11.06.2022;11.06.2022;08:30;16:00;450;Pres-4 elevatörünün üst tamburu ve redüktörü değiştirildi. Milin bilyaları sıfır takıldı
+Arıza;12.06.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;12.06.2022;12.06.2022;08:15;09:30;75;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Bakım;12.06.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;;12.06.2022;12.06.2022;09:00;12:00;180;2 adet sıfır rulo toplandı
+Arıza;12.06.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata Değişimi;1;12.06.2022;12.06.2022;08:15;08:45;30;Pres-4 disk civataları kesmişti değiştirldi, ayar yapıldı
+Bakım;12.06.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;12.06.2022;12.06.2022;08:45;09:00;15;Expander-1 ön gömlek ve konileri kontrol edildi
+Arıza;12.06.2022;Teleskopik Bant-1;Mekanik;Bant Arızası;Bant Arızası;;12.06.2022;12.06.2022;22:40;23:40;60;Bant çalışmıyordu kabloları yenilendi
+Arıza;13.06.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;12.06.2022;12.06.2022;01:45;02:15;30;1 tane patlak elek vardı değiştirildi
+Arıza;13.06.2022;Pres-3;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;13.06.2022;13.06.2022;10:20;11:00;40;Pres-3 sigorta kesmişti yenisi ile değiştirildi
+Arıza;13.06.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata değişimi;5;13.06.2022;13.06.2022;08:15;13:15;300;Pres-4 cıvata kesmişti değişitildi. Rulo mili çatlamıştı kaynak yapıldı
+Arıza;13.06.2022;Sarsak-3;Mekanik;Basınç Saati Arızası;Basınç Saati Değişimi;1;13.06.2022;13.06.2022;14:00;14:20;20;Sarsak basınç saati patlamıştı değiştirildi
+Bakım;14.06.2022;Değirmen-1;Mekanik;Selvo Bakım;Selvo Bakım;;13.06.2022;13.06.2022;14:30;14:50;20;Değirmen selvo kontrolleri yapıldı
+Bakım;15.06.2022;Değirmen-2;Mekanik;Selvo Bakım;Selvo Bakım;;14.06.2022;14.06.2022;14:50;15:15;25;Değirmen selvo kontrolleri yapıldı
+Arıza;16.06.2022;Paketleme-3;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;15.06.2022;15.06.2022;12:00;12:45;45;Paketleme-3 motor zincirlisi değiştirildi
+Arıza;17.06.2022;Pres-4;Mekanik;Elevatör Arızası;Elevatör Üst tambur Değişimi;1;16.06.2022;16.06.2022;08:30;16:00;450;Pres-4 elevatörünün üst tamburu ve redüktörü değiştirildi. Milin bilyaları sıfır takıldı
+Arıza;17.06.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;17.06.2022;17.06.2022;08:15;09:30;75;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Bakım;17.06.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;;17.06.2022;17.06.2022;09:00;12:00;180;2 adet sıfır rulo toplandı
+Arıza;17.06.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata Değişimi;1;17.06.2022;17.06.2022;08:15;08:45;30;Pres-4 disk civataları kesmişti değiştirldi, ayar yapıldı
+Bakım;17.06.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;17.06.2022;17.06.2022;08:45;09:00;15;Expander-1 ön gömlek ve konileri kontrol edildi
+Bakım;17.06.2022;Expander-4;Mekanik;Expander Bakımı;Expander Bakımı;;17.06.2022;17.06.2022;09:00;09:15;15;Expander-4 ön gömlek ve konileri kontrol edildi
+Arıza;18.06.2022;Kondisyonel-1;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;17.06.2022;17.06.2022;09:20;11:15;115;Kondisyonel-1 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Arıza;19.06.2022;Pres Eleği-2;Mekanik;Akış Arızası;Akış Arızası;;18.06.2022;18.06.2022;14:30;15:00;30;Pres eleği-2 akışa 4 adet kova gelmişti alındı
+Bakım;20.06.2022;Pres Elevatörü-1;Mekanik;Kova Bakımı;Kova Değişimi;20;19.06.2022;19.06.2022;08:10;09:30;80;Pres elevatörü-1 eksik ve kırık kovalar vardı değiştirildi
+Bakım;21.06.2022;Pres Elevatörü-2;Mekanik;Kova Bakımı;Kova Değişimi;23;20.06.2022;20.06.2022;09:30;10:30;60;Pres elevatörü-2 eksik ve kırık kovalar vardı değiştirildi
+Arıza;22.06.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;21.06.2022;21.06.2022;10:45;11:30;45;Sarsak-3 üst pistonun oturduğu ayağın demiri çatlamıştı değiştirildi
+Bakım;22.06.2022;Pres Elevatörü-3;Mekanik;Tambur Bakımı;Tambur Bakımı;;22.06.2022;22.06.2022;11:00;11:40;40;Pres elevatörü-3 motor tarafındaki tamburu ayarlandı
+Bakım;22.06.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;22.06.2022;22.06.2022;00:10;00:35;25;Elekler 4*3 oldu vuran taraf 3 oldu
+Bakım;22.06.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;22.06.2022;22.06.2022;00:35;01:00;25;Elekler 4*3 oldu vuran taraf 3 oldu
+Arıza;22.06.2022;Pres Eleği-1;Mekanik;Akış Arızası;Akış Arızası;;22.06.2022;22.06.2022;08:00;08:15;15;Pres eleği-1 akışından 2 adet kova alındı
+Arıza;22.06.2022;Paketleme-1;Mekanik;Kefe Arızası;Kefe Arızası;;22.06.2022;22.06.2022;14:00;15:30;90;Yeni fabrika paketleme-1 kefenin kantar mili kırılmıştı kaynatıldı
+Bakım;23.06.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;22.06.2022;22.06.2022;08:30;08:45;15;Elekler 3*3 oldu
+Bakım;23.06.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;23.06.2022;23.06.2022;08:45;09:00;15;Elekler 3*3 oldu
+Bakım;24.06.2022;Pres Elevatörü-4;Mekanik;Kestemit Bakımı;Kestemit Bakımı;;23.06.2022;23.06.2022;09:30;10:00;30;Yeni fabrika pres elevatörü-4 akıştaki kestamit bitmişti değiştirildi
+Bakım;25.06.2022;Pres Elevatörü;Mekanik;Elevatör Bakımı;Elevatör Bakımı;;24.06.2022;24.06.2022;13:20;16:00;160;Eski fabrika pres elevatörünün kovaları ve ek yeri kontrol edildi sağ-sol ayarı yapıldı
+Bakım;26.06.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;25.06.2022;25.06.2022;09:00;10:30;90;Yeni fabrika değirmen-1 çekiçler ters-düz yapıldı elekler 4*4 yapıldı
+Bakım;27.06.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;26.06.2022;26.06.2022;10:30;12:00;90;Yeni fabrika değirmen-2 çekiçler ters-düz yapıldı elekler 4*4 yapıldı
+Arıza;28.06.2022;Değirmen-1;Mekanik;Devir Bekçisi Arızası;Sensör Ayağı Değişimi;;27.06.2022;27.06.2022;22:40;23:50;70;Değirmen-1 devir bekçisi sensör ayağı değiştirildi
+Bakım;29.06.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;28.06.2022;28.06.2022;23:50;00:05;15;Elekler 5*4 yapıldı
+Arıza;29.06.2022;Expander-2;Mekanik;Ön Gömlek Arızası;Ön Gömlek Değişimi;1;29.06.2022;29.06.2022;00:30;01:40;70;Expander-2 ön gömleği dağılmıştı değiştirildi
+Arıza;29.06.2022;Expander-2;Mekanik;Kafa Padıl Arızası;Kafa Padıl Değişimi;1;29.06.2022;29.06.2022;01:40;02:40;60;Expander-2 kafa padıl değişimi yapıldı
+Arıza;29.06.2022;Expander-2;Mekanik;Stop Cıvata Arızası;Stop Cıvata Değişimi;3;29.06.2022;29.06.2022;02:40;03:00;20;Expander-2 3 adet stop civatası değiştirildi
+Arıza;29.06.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;29.06.2022;29.06.2022;03:00;03:30;30;Expander-2 kırıcı yaprakları kopmuştu kaynatıldı
+Arıza;29.06.2022;Pres-2;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;29.06.2022;29.06.2022;10:00;10:30;30;Pres-2 sigorta kesmişti değiştirildi
+Arıza;30.06.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;29.06.2022;29.06.2022;09:10;10:00;50;Pres eleği-2 lastiği patlaktı değiştirildi
+Bakım;1.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;30.06.2022;30.06.2022;08:30;08:40;10;Elekler 4*4 oldu
+Bakım;1.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;1.07.2022;1.07.2022;08:40;08:50;10;Elekler 4*4 oldu
+Arıza;1.07.2022;Mikser;Mekanik;Mısır Suyu Pompa Arızası;Mısır Suyu Pompa Değişimi;;1.07.2022;1.07.2022;14:00;15:10;70;Yeni fabrika miksere mısır suyu basan pompa değişimi yapıldı
+Arıza;1.07.2022;Kondisyonel-4;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;1.07.2022;1.07.2022;19:30;20:15;45;Kondisyonel-4  kayışları yandı, değiştirildi.
+Arıza;1.07.2022;Paketleme-4;Mekanik;Kefe Arızası;Kefe Arızası;;1.07.2022;1.07.2022;04:45;04:55;10;Yeni fabrika paketleme-4 kefe pistonun yerinden çıkmıştı takıldı
+Arıza;1.07.2022;Sarsak-3;Mekanik;Sarsak Arızası;Sarsak Arızası;;1.07.2022;1.07.2022;14:30;14:55;25;Sarsak-3 mal kaçırıyordu kaçak yerleri kapatıldı
+Bakım;1.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;1.07.2022;1.07.2022;09:00;09:15;15;Elekler 4*4 oldu
+Bakım;1.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;1.07.2022;1.07.2022;09:15;09:30;15;Elekler 4*4 oldu
+Bakım;1.07.2022;Pres-4;Mekanik;Motor Kayış Bakımı;Motor Kayış Bakımı;;1.07.2022;1.07.2022;09:00;09:30;30;Pres-4 motor kayışları gerildi
+Arıza;1.07.2022;Paketleme-3;Mekanik;Zincir Arızası;Zincir Arızası;;1.07.2022;1.07.2022;11:00;12:00;60;Paketleme-3 zinciri ek yerinden koptu yapıldı
+Bakım;1.07.2022;Expander-4;Mekanik;Koni Yağ Bakımı;Koni Yağ Bakımı;;1.07.2022;1.07.2022;15:00;15:35;35;Expander-4 koni yağ değişimi yapıldı
+Arıza;1.07.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;1.07.2022;1.07.2022;18:20;18:35;15;Değirmen-1 beslemesi sıkışmıştı açıldı
+Bakım;2.07.2022;Mikser;Mekanik;Mikser Bakımı;Mikser Bakımı;;1.07.2022;1.07.2022;13:50;14:10;20;Yeni fabrika mikserde kaçaklar vardı kapatıldı
+Arıza;3.07.2022;Mikser ;Mekanik;Havalı Vana Arızası;Havalı Vana Arızası;;2.07.2022;2.07.2022;08:30;12:00;210;Yeni fabrika mikser yanındaki tankların havalı vanaları kaçak vardı yapıldı
+Arıza;4.07.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;3.07.2022;3.07.2022;08:20;08:30;10;2 adet patlak elek vardı değiştirildi
+Arıza;5.07.2022;Expander-3;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;4.07.2022;4.07.2022;11:30;12:10;40;Expander-3 kırıcı sıkışmıştı temizlendi
+Bakım;6.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;5.07.2022;5.07.2022;12:00;12:08;8;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;7.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;6.07.2022;6.07.2022;12:08;12:15;7;Değirmen-2 elek ve çekiçler kontrol edildi
+Bakım;8.07.2022;Paketleme-1;Mekanik;Kefe Motor Bakımı;Kefe Motor Bakımı;;7.07.2022;7.07.2022;14:00;16:00;120;Eski fabrika paketleme-1 kefe motoru için redüktör ve motor hazırlandı
+Bakım;8.07.2022;Paketleme-2;Mekanik;Vibratör Bakımı;Vibratör Bakımı;;8.07.2022;8.07.2022;14:00;15:15;75;Eski fabrika paketleme-2 bunkere redüktör kaynatıldı
+Arıza;8.07.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;8.07.2022;8.07.2022;17:00;17:15;15;Değirmen-1 beslemesi sıkışmıştı açıldı
+Bakım;8.07.2022;Pres-1;Mekanik;Pres Bakımı;Pres Bakımı;;8.07.2022;8.07.2022;09:30;12:00;150;Pres-1 rulmanları kontrol edilip yağlandı sabitleme ayağı kırıktı kaynak yapıldı
+Bakım;8.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;8.07.2022;8.07.2022;21:25;21:50;25;Elekler4*3 oldu vuran taraf 3
+Bakım;11.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;8.07.2022;8.07.2022;21:50;22:05;15;Elekler4*3 oldu vuran taraf 3
+Arıza;12.07.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;11.07.2022;11.07.2022;03:30;03:45;15;Sarsak-3 piston açmıyordu hava hortumu değiştirildi
+Bakım;13.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;12.07.2022;12.07.2022;04:30;04:50;20;Elekler 3*3 oldu
+Bakım;14.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;13.07.2022;13.07.2022;04:50;05:10;20;Elekler 3*3 oldu
+Bakım;15.07.2022;Değirmen-2;Mekanik;Alt Çene Bakımı;Alt Çene Değişimi;2;14.07.2022;14.07.2022;09:00;12:00;180;Değirmen-2 alt çene değişimi yapıldı
+Bakım;15.07.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;15.07.2022;15.07.2022;12:00;14:00;120;Değirmen-2 çekiç değişimi yapıldı
+Bakım;15.07.2022;Değirmen-2;Mekanik;Mil Bakımı;Mil Değişimi;16;15.07.2022;15.07.2022;14:00;16:00;120;Değirmen-2 mil değişimş yapıldı
+Bakım;15.07.2022;Expander-4;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;15.07.2022;15.07.2022;11:30;13:30;120;Expander-4 kafa padılı değimi yapıldı
+Bakım;15.07.2022;Pres-Küçük;Mekanik;Pres Bakımı;Pres Bakımı;;15.07.2022;15.07.2022;11:30;16:30;300;Pres-Küçük ayna ve toz çemberinde kaçaklar vardı kaynakla giderildi
+Bakım;15.07.2022;Teleskopik Bant-1;Mekanik;Bant Bakımı;Bant Bakımı;;15.07.2022;15.07.2022;15:15;15:30;15;Teleskopik Bant-1 gergi ayarı yapıldı
+Bakım;15.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;15.07.2022;15.07.2022;15:30;15:45;15;Elekler 4*4 oldu. 
+Bakım;15.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;15.07.2022;15.07.2022;15:45;16:00;15;Elekler 4*4 oldu. 
+Bakım;15.07.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;15.07.2022;15.07.2022;08:35;08:50;15;Elekler ve çekiçler kontrol edildi
+Bakım;15.07.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;15.07.2022;15.07.2022;08:50;09:10;20;Elekler ve çekiçler kontrol edildi
+Bakım;15.07.2022;Teleskopik Bant-3;Mekanik;Bant Bakımı;Bant Bakımı;;15.07.2022;15.07.2022;23:00;23:20;20;Teleskopik Bant-3 gergi ayarı yapıldı
+Arıza;15.07.2022;Teleskopik Bant-1;Mekanik;Bant Arızası;Bant Arızası;;15.07.2022;15.07.2022;22:40;23:40;60;Bant çalışmıyordu kabloları yenilendi
+Arıza;15.07.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;15.07.2022;15.07.2022;01:45;02:15;30;1 tane patlak elek vardı değiştirildi
+Arıza;15.07.2022;Pres-3;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;15.07.2022;15.07.2022;10:20;11:00;40;Pres-3 sigorta kesmişti yenisi ile değiştirildi
+Arıza;15.07.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata değişimi;5;15.07.2022;15.07.2022;08:15;13:15;300;Pres-4 cıvata kesmişti değişitildi. Rulo mili çatlamıştı kaynak yapıldı
+Arıza;16.07.2022;Sarsak-3;Mekanik;Basınç Saati Arızası;Basınç Saati Değişimi;1;15.07.2022;15.07.2022;14:00;14:20;20;Sarsak basınç saati patlamıştı değiştirildi
+Bakım;17.07.2022;Değirmen-1;Mekanik;Selvo Bakım;Selvo Bakım;;16.07.2022;16.07.2022;14:30;14:50;20;Değirmen selvo kontrolleri yapıldı
+Bakım;17.07.2022;Değirmen-2;Mekanik;Selvo Bakım;Selvo Bakım;;17.07.2022;17.07.2022;14:50;15:15;25;Değirmen selvo kontrolleri yapıldı
+Arıza;17.07.2022;Paketleme-3;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;17.07.2022;17.07.2022;12:00;12:45;45;Paketleme-3 motor zincirlisi değiştirildi
+Arıza;17.07.2022;Pres-4;Mekanik;Elevatör Arızası;Elevatör Üst tambur Değişimi;1;17.07.2022;17.07.2022;08:30;16:00;450;Pres-4 elevatörünün üst tamburu ve redüktörü değiştirildi. Milin bilyaları sıfır takıldı
+Arıza;17.07.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;17.07.2022;17.07.2022;08:15;09:30;75;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Bakım;17.07.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;;17.07.2022;17.07.2022;09:00;12:00;180;2 adet sıfır rulo toplandı
+Arıza;17.07.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata Değişimi;1;17.07.2022;17.07.2022;08:15;08:45;30;Pres-4 disk civataları kesmişti değiştirldi, ayar yapıldı
+Bakım;17.07.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;17.07.2022;17.07.2022;08:45;09:00;15;Expander-1 ön gömlek ve konileri kontrol edildi
+Bakım;18.07.2022;Expander-4;Mekanik;Expander Bakımı;Expander Bakımı;;17.07.2022;17.07.2022;09:00;09:15;15;Expander-4 ön gömlek ve konileri kontrol edildi
+Arıza;18.07.2022;Kondisyonel-1;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;18.07.2022;18.07.2022;09:20;11:15;115;Kondisyonel-1 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Bakım;18.07.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;18.07.2022;18.07.2022;19:15;19:40;25;Elekler 3*4 oldu. Vuran taraf 3
+Bakım;18.07.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;18.07.2022;18.07.2022;19:40;20:05;25;Elekler 3*4 oldu. Vuran taraf 3
+Arıza;18.07.2022;Expander-3;Mekanik;Taç Arızası;Taç Değişimi;1;18.07.2022;18.07.2022;09:00;10:15;75;Expander-3 taç değişimi yapıldı
+Arıza;18.07.2022;Expander-3;Mekanik;Koni Arızası;Koni Değişimi;1;18.07.2022;18.07.2022;10:15;11:30;75;Expander-3 koni değişimi yapıldı
+Arıza;18.07.2022;Expander-3;Mekanik;Kırıcı Eleği Arızası;Kırıcı Eleği Değişimi;1;18.07.2022;18.07.2022;11:30;12:30;60;Expander-3 kırıcı eleği değişimi yapıldı
+Arıza;18.07.2022;Pres-2;Mekanik;Vinas Pompa Arızası;Vinas Pompa Değişimi;1;18.07.2022;18.07.2022;08:00;09:50;110;Pres-2 vinas pompası değiştirildi
+Arıza;19.07.2022;Pres-3;Mekanik;Disk Arızası;Disk Değişimi;1;18.07.2022;18.07.2022;08:00;11:00;180;Pres-3 disk değişimi yapıldı taşlanmış disk takıldı
+Arıza;20.07.2022;Pres-3;Mekanik;Rulo Arızası;Rulo Değişimi;2;19.07.2022;19.07.2022;11:00;12:00;60;Pres-3 rulo değişimi yapıldı çıkma rulo takıldı
+Arıza;21.07.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;20.07.2022;20.07.2022;14:15;16:00;105;Pres eleği-2 lastiği patlaktı değiştirildi
+Arıza;22.07.2022;Pres-2;Mekanik;Rulo Arızası;Rulo Değişimi;2;21.07.2022;21.07.2022;14:15;16:30;135;Pres-2 rulo değişimi yapıldı çıkma rulo takıldı
+Bakım;23.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;22.07.2022;22.07.2022;08:00;08:15;15;Elekler 4*4 yapıldı
+Bakım;24.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;23.07.2022;23.07.2022;08:15;08:30;15;Elekler 4*4 yapıldı
+Arıza;25.07.2022;Pres-1;Mekanik;Disk Arızası;Disk Değişimi;1;24.07.2022;24.07.2022;08:15;10:30;135;Pres-1 disk değişimi yapıldı sıfır disk takıldı
+Arıza;26.07.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;25.07.2022;25.07.2022;10:30;12:30;120;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı
+Arıza;26.07.2022;Pres-1;Mekanik;Aşınma Ringi Arızası;Aşınma Ringi Değişimi;1;26.07.2022;26.07.2022;13:30;15:00;90;Pres-1 aşınma ringi değiştirildi
+Bakım;26.07.2022;Pres-3;Mekanik;Rulo Bakımı;Rulo Toplama;2;26.07.2022;26.07.2022;09:10;12:45;215;2 adet sıfır rulo toplandı
+Bakım;26.07.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;2;26.07.2022;26.07.2022;13:45;16:30;165;2 adet sıfır rulo toplandı
+Arıza;26.07.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;26.07.2022;26.07.2022;18:30;19:00;30;Yeni fabrika sarsak-3 piston valfinin hortumu değiştirildi
+Arıza;26.07.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;26.07.2022;26.07.2022;19:10;19:40;30;1 tane patlak elek vardı değiştirildi
+Bakım;26.07.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;26.07.2022;26.07.2022;12:00;12:20;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;26.07.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;26.07.2022;26.07.2022;12:20;12:40;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;26.07.2022;Expander-3;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;26.07.2022;26.07.2022;08:00;09:00;60;Expander-3 kafa padıl değiştirildi
+Arıza;26.07.2022;Paketleme-3;Mekanik;Dikiş Makinası Arızası;Dikiş Makinası Arızası;;26.07.2022;26.07.2022;21:10;21:30;20;Paketleme-3 dikiş makinasının kayışı kopmuştu değiştirildi
+Arıza;26.07.2022;Pres Elevatörü-1;Mekanik;Akış Arızası;Akış Arızası;;26.07.2022;26.07.2022;22:45;23:10;25;Yeni fabrika 1 nolu pres elevatörünün akışında delik vardı kapatıldı
+Bakım;26.07.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Değişimi;;26.07.2022;26.07.2022;08:30;16:30;480;Kondisyonel-2 melasiyerin padılları komple değiştirildi
+Arıza;27.07.2022;Pres-1;Mekanik;Bıçak Arızası;Bıçak Arızası;;26.07.2022;26.07.2022;23:10;23:40;30;Pres-1 bıçağı çıkmıştı yerine takıldı
+Arıza;28.07.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;27.07.2022;27.07.2022;18:40;19:30;50;Yeni fabrika pres eleği-2 lastik patlamıştı değişirildi
+Arıza;29.07.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;28.07.2022;28.07.2022;11:00;11:20;20;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Bakım;30.07.2022;Pres-1;Mekanik;Kasnak Bakımı;Rulman Değişimi;1;29.07.2022;29.07.2022;08:00;12:00;240;Pres-1 kasnak kaplin yanındaki yatak rulmanı değiştirildi
+Arıza;31.07.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;30.07.2022;30.07.2022;02:55;03:10;15;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Arıza;1.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;31.07.2022;31.07.2022;07:10;07:35;25;1 tane patlak elek vardı değiştirildi
+Bakım;2.08.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Bakımı;;1.08.2022;1.08.2022;09:20;09:30;10;Kondisyonel-2 padılları kontrol edildi
+Arıza;3.08.2022;Sarsak-4;Mekanik;Piston Arızası;Piston Arızası;;2.08.2022;2.08.2022;19:15;19:50;35;Yeni fabrika sarsak-4 alt piston açmıyordu bakıldı
+Arıza;4.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;3.08.2022;3.08.2022;08:30;08:50;20;2 tane patlak elek vardı değiştirildi
+Bakım;5.08.2022;Pres Elevatörü-3;Mekanik;Kayış Bakımı;Kayış Bakımı;;4.08.2022;4.08.2022;15:35;15:50;15;Pres Elevatörü-3 kayış ayarı yapılmıştır
+Bakım;6.08.2022;Pres Elevatörü-4;Mekanik;Kayış Bakımı;Kayış Bakımı;;5.08.2022;5.08.2022;15:50;16:05;15;Pres Elevatörü-4 kayış ayarı yapılmıştır
+Arıza;7.08.2022;Paketleme-4;Mekanik;Motor Arızası;Motor Değişimi;;6.08.2022;6.08.2022;14:30;15:00;30;Paketleme-4 zincirlinin motoru değiştirildi
+Arıza;8.08.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;7.08.2022;7.08.2022;10:00;11:00;60;Pres eleği-2 lastiği patlaktı değiştirildi
+Bakım;9.08.2022;Paketleme-4;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;8.08.2022;8.08.2022;14:00;17:00;180;Paketleme-4 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;10.08.2022;Pres Eleği-4;Mekanik;Elek Arızası;Elek Arızası;;9.08.2022;9.08.2022;08:10;10:15;125;Pres Eleği-4 elek patlaktı tamir edildi ve süpürge değişimi yapıldı
+Arıza;11.08.2022;Kondisyonel-3;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Bilya Değişimi;;10.08.2022;10.08.2022;11:30;16:25;295;Kondüksiyonel-3 motor tarafondaki ön mil yatak bilyası değiştirildi
+Bakım;12.08.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;11.08.2022;11.08.2022;11:00;11:15;15;Elekler 4*4 oldu. 
+Bakım;13.08.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;12.08.2022;12.08.2022;11:15;11:30;15;Elekler 4*4 oldu. 
+Bakım;14.08.2022;Paketleme-4;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;13.08.2022;13.08.2022;12:50;14:20;90;Paketleme-4 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;15.08.2022;Pres-4;Mekanik;Rulo Arızası;Rulo Değişimi;;14.08.2022;14.08.2022;08:15;11:50;215;Pres-4 rulo rulmanları dağılmıştı rulolar değiştirildi
+Arıza;16.08.2022;Pres-3;Mekanik;Melas Pompa Arızası;Melas Pompa Değişimi;1;15.08.2022;15.08.2022;14:30;15:00;30;3 nolu günlük pres pompası değişti
+Arıza;17.08.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;16.08.2022;16.08.2022;08:30;09:25;55;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Arıza;18.08.2022;Pres-1;Mekanik;Disk Arızası;Disk Değişimi;1;17.08.2022;17.08.2022;09:25;12:30;185;Pres-1 disk değişimi yapıldı sıfır disk yapıldı
+Arıza;19.08.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;18.08.2022;18.08.2022;09:30;09:45;15;1 tane patlak elek vardı değiştirildi
+Arıza;19.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;19.08.2022;19.08.2022;09:45;10:00;15;1 tane patlak elek vardı değiştirildi
+Bakım;19.08.2022;Paketleme-3;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;19.08.2022;19.08.2022;13:00;13:45;45;Paketleme-3 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;19.08.2022;Expander-1;Mekanik;Kırıcı Arıza;Kaplin Değişimi;;19.08.2022;19.08.2022;10:20;11:40;80;Expander-1 kırıcının kaplini kırılmıştı yenisi ile değiştirildi
+Arıza;19.08.2022;Pres-3;Mekanik;Melas Pompa Arızası;Melas Motor Değişimi;1;19.08.2022;19.08.2022;19:45;22:40;175;Pres-3 melas gelmiyordu motor poampası yanmış elektrikçi ile değişimi yapıldı
+Bakım;19.08.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;19.08.2022;19.08.2022;23:00;23:30;30;Elekler 4*3 oldu. 
+Bakım;19.08.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;19.08.2022;19.08.2022;23:30;00:00;30;Elekler 4*3 oldu. 
+Bakım;19.08.2022;Pres-4;Mekanik;Disk Bakımı;Disk Civata Değişimi;;19.08.2022;19.08.2022;10:30;12:00;90;Disk civataları kontrol edildi 2 tanesi değiştirildi
+Bakım;19.08.2022;Paketleme-3;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;19.08.2022;19.08.2022;13:30;14:30;60;Paketleme-3 zicirlisinin padıllarının yarısı değiştirildi
+Bakım;19.08.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;19.08.2022;19.08.2022;14:30;14:45;15;Elekler 4*4 oldu. 
+Bakım;19.08.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;19.08.2022;19.08.2022;14:45;15:00;15;Elekler 4*4 oldu. 
+Arıza;19.08.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;19.08.2022;19.08.2022;18:00;18:30;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;19.08.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;19.08.2022;19.08.2022;18:30;19:00;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;19.08.2022;Expander-4;Mekanik;Koni Arızası;Koni Hortumu Değişimi;;19.08.2022;19.08.2022;14:00;14:30;30;Expander-4 koni hortumu patlamıştı yenisi ile değiştirildi
+Arıza;19.08.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;;19.08.2022;19.08.2022;09:40;10:30;50;Pres-4 ön ayna cıvata kesmişti kaynak ile diskten çıkartılıp yenileri takıldı
+Arıza;19.08.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;19.08.2022;19.08.2022;10:30;10:50;20;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;19.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;19.08.2022;19.08.2022;08:10;08:30;20;2 tane patlak elek vardı değiştirildi
+Arıza;19.08.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;19.08.2022;19.08.2022;19:10;19:40;30;1 tane patlak elek vardı değiştirildi
+Bakım;19.08.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;19.08.2022;19.08.2022;12:00;12:20;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;20.08.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;19.08.2022;19.08.2022;12:20;12:40;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;21.08.2022;Expander-3;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;20.08.2022;20.08.2022;08:00;09:00;60;Expander-3 kafa padıl değiştirildi
+Arıza;22.08.2022;Paketleme-3;Mekanik;Dikiş Makinası Arızası;Dikiş Makinası Arızası;;21.08.2022;21.08.2022;21:10;21:30;20;Paketleme-3 dikiş makinasının kayışı kopmuştu değiştirildi
+Arıza;23.08.2022;Pres Elevatörü-1;Mekanik;Akış Arızası;Akış Arızası;;22.08.2022;22.08.2022;22:45;23:10;25;Yeni fabrika 1 nolu pres elevatörünün akışında delik vardı kapatıldı
+Bakım;24.08.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Değişimi;;23.08.2022;23.08.2022;08:30;16:30;480;Kondisyonel-2 melasiyerin padılları komple değiştirildi
+Arıza;24.08.2022;Pres-1;Mekanik;Bıçak Arızası;Bıçak Arızası;;24.08.2022;24.08.2022;23:10;23:40;30;Pres-1 bıçağı çıkmıştı yerine takıldı
+Arıza;24.08.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;24.08.2022;24.08.2022;18:40;19:30;50;Yeni fabrika pres eleği-2 lastik patlamıştı değişirildi
+Arıza;24.08.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;24.08.2022;24.08.2022;11:00;11:20;20;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Bakım;24.08.2022;Pres-1;Mekanik;Kasnak Bakımı;Rulman Değişimi;1;24.08.2022;24.08.2022;08:00;12:00;240;Pres-1 kasnak kaplin yanındaki yatak rulmanı değiştirildi
+Arıza;24.08.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;24.08.2022;24.08.2022;02:55;03:10;15;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Arıza;24.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;24.08.2022;24.08.2022;07:10;07:35;25;1 tane patlak elek vardı değiştirildi
+Bakım;24.08.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Bakımı;;24.08.2022;24.08.2022;09:20;09:30;10;Kondisyonel-2 padılları kontrol edildi
+Arıza;25.08.2022;Sarsak-4;Mekanik;Piston Arızası;Piston Arızası;;24.08.2022;24.08.2022;19:15;19:50;35;Yeni fabrika sarsak-4 alt piston açmıyordu bakıldı
+Arıza;26.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;25.08.2022;25.08.2022;08:30;08:50;20;2 tane patlak elek vardı değiştirildi
+Arıza;27.08.2022;Mikser;Mekanik;Mısır Suyu Pompa Arızası;Mısır Suyu Pompa Değişimi;1;26.08.2022;26.08.2022;08:10;09:20;70;Yeni fabrika miksere mısır suyu basan pompa değişimi yapıldı
+Bakım;27.08.2022;Kondisyonel-3;Mekanik;Padıl Bakımı;Padıl Bakımı;;27.08.2022;27.08.2022;08:15;08:30;15;Kondisyonel-3 padılları kontrol edildi
+Bakım;27.08.2022;Sarsak-3;Mekanik;Sensör Bakımı;Sensör Bakımı;;27.08.2022;27.08.2022;08:40;09:30;50;Yeni fabrika sarsak-3 üst sensörüne ayar yapıldı
+Arıza;27.08.2022;Kondisyonel-1;Mekanik;Vinas Borusu Arızası;Vinas Borusu Arızası;;27.08.2022;27.08.2022;23:30;00:00;30;Yeni fabrika kondisyonel-1 vinas borusu delikti kaynatıldı
+Arıza;27.08.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;27.08.2022;27.08.2022;18:10;18:40;30;2 tane patlak elek vardı değiştirildi
+Arıza;27.08.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Sıkışması;;27.08.2022;27.08.2022;01:30;02:00;30;Yeni fabrika değirmen-1 besleme sıkışmıştı kaldırıldı kova gelmiş
+Arıza;27.08.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;2;27.08.2022;27.08.2022;08:00;08:30;30;2 tane patlak elek vardı değiştirildi
+Arıza;27.08.2022;Değirmen-1;Mekanik;Değirmen Sıkışması;Değirmen Sıkışması;;27.08.2022;27.08.2022;20:30;20:55;25;Yeni fabrika değirmen-1 sıkışmıştı içi açılıp temizlendi
+Arıza;28.08.2022;Değirmen-1;Mekanik;Değirmen Sıkışması;Değirmen Sıkışması;;27.08.2022;27.08.2022;23:30;00:00;30;Yeni fabrika değirmen-1 sıkışmıştı içi açılıp temizlendi
+Arıza;29.08.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;28.08.2022;28.08.2022;19:00;19:30;30;1 tane patlak elek vardı değiştirildi
+Arıza;30.08.2022;Expander-1;Mekanik;Üst Klepe Arızası;Üst Klepe Arızası;;29.08.2022;29.08.2022;23:00;23:30;30;Yeni fabrika expander-1 üst klepe mal kaçırıyordu yapıldı
+Arıza;31.08.2022;Değirmen-2;Mekanik;Besleme Arızası;Besleme Sıkışması;;30.08.2022;30.08.2022;01:10;02:30;80;Yeni fabrika değirmen-2 beslemeye demir parçası gelmişti içi açılıp kardırıldı
+Arıza;1.09.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;31.08.2022;31.08.2022;08:40;09:00;20;1 tane patlak elek vardı değiştirildi
+Arıza;2.09.2022;Pres Elevatörü-2;Mekanik;Akış Arızası;Akış Arızası;;1.09.2022;1.09.2022;09:00;09:15;15;Yeni fabrika pres elevatörü-2 akışında kaçak vardı kapatıldı
+Bakım;3.09.2022;Expander-1;Mekanik;Taç Bakımı;Taç Değişimi;1;2.09.2022;2.09.2022;08:45;10:45;120;Expander-1 taç değişimi yapıldı
+Bakım;4.09.2022;Expander-1;Mekanik;Koni Bakımı;Koni Değişimi;1;3.09.2022;3.09.2022;10:45;11:45;60;Expander-1 koni değişimi yapıldı
+Bakım;4.09.2022;Expander-1;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;4.09.2022;4.09.2022;11:45;12:30;45;Expander-1 kafa padıl değişimi yapıldı
+Bakım;4.09.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;4.09.2022;4.09.2022;18:50;20:30;100;Expander-2 kırıcının iki adet bıçağı değiştirildi
+Arıza;4.09.2022;Teleskopik Bant-2;Mekanik;Bant Arızası;Swich Arızası;;4.09.2022;4.09.2022;23:10;23:20;10;Swich takılı kalmıştı ayarlama yapıldı
+Arıza;4.09.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;;4.09.2022;4.09.2022;08:30;08:45;15;1 tane patlak elek vardı değiştirildi
+Bakım;4.09.2022;Pres-4;Mekanik;Pres Bakımı;Pres Bakımı;;4.09.2022;4.09.2022;08:30;09:30;60;Pres-4 bakım yapıldı. Disk rulo kasnak kontrol edildi
+Bakım;4.09.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;4.09.2022;4.09.2022;10:00;11:00;60;Expander-1 bakım yapıldı. Konik taç stop çivatası bakımı yapıldı
+Bakım;4.09.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;4.09.2022;4.09.2022;16:30;16:45;15;Elekler 3*4 oldu. Orta köy tarafı 3 oldu
+Bakım;4.09.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;4.09.2022;4.09.2022;16:45;17:00;15;Elekler 3*4 oldu. Orta köy tarafı 3 oldu
+Arıza;4.09.2022;Paketleme-1;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;4.09.2022;4.09.2022;11:30;12:00;30;Paketleme-1 motor zincirlisi değiştirildi
+Bakım;4.09.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;4.09.2022;4.09.2022;18:20;18:30;10;Elekler 5*4 oldu. Kadıköy  tarafı 4 oldu
+Bakım;4.09.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;4.09.2022;4.09.2022;18:30;18:45;15;Elekler 5*4 oldu. Kadıköy  tarafı 4 oldu
+Arıza;4.09.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Değişimi;1;4.09.2022;4.09.2022;08:30;10:30;120;3 nolu sarsağın piston ve çekvalfi değiştirldi
+Bakım;4.09.2022;Pres-Küçük;Mekanik;Pres Bakımı;Pres Bakımı;;4.09.2022;4.09.2022;11:30;16:30;300;Pres-Küçük ayna ve toz çemberinde kaçaklar vardı kaynakla giderildi
+Bakım;4.09.2022;Teleskopik Bant-1;Mekanik;Bant Bakımı;Bant Bakımı;;4.09.2022;4.09.2022;15:15;15:30;15;Teleskopik Bant-1 gergi ayarı yapıldı
+Bakım;4.09.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;4.09.2022;4.09.2022;15:30;15:45;15;Elekler 4*4 oldu. 
+Bakım;4.09.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;4.09.2022;4.09.2022;15:45;16:00;15;Elekler 4*4 oldu. 
+Bakım;4.09.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;4.09.2022;4.09.2022;08:35;08:50;15;Elekler ve çekiçler kontrol edildi
+Bakım;5.09.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;4.09.2022;4.09.2022;08:50;09:10;20;Elekler ve çekiçler kontrol edildi
+Bakım;6.09.2022;Teleskopik Bant-3;Mekanik;Bant Bakımı;Bant Bakımı;;5.09.2022;5.09.2022;23:00;23:20;20;Teleskopik Bant-3 gergi ayarı yapıldı
+Arıza;6.09.2022;Teleskopik Bant-1;Mekanik;Bant Arızası;Bant Arızası;;6.09.2022;6.09.2022;22:40;23:40;60;Bant çalışmıyordu kabloları yenilendi
+Arıza;6.09.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;6.09.2022;6.09.2022;01:45;02:15;30;1 tane patlak elek vardı değiştirildi
+Arıza;6.09.2022;Pres-3;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;6.09.2022;6.09.2022;10:20;11:00;40;Pres-3 sigorta kesmişti yenisi ile değiştirildi
+Arıza;7.09.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata değişimi;5;6.09.2022;6.09.2022;08:15;13:15;300;Pres-4 cıvata kesmişti değişitildi. Rulo mili çatlamıştı kaynak yapıldı
+Arıza;8.09.2022;Sarsak-3;Mekanik;Basınç Saati Arızası;Basınç Saati Değişimi;1;7.09.2022;7.09.2022;14:00;14:20;20;Sarsak basınç saati patlamıştı değiştirildi
+Bakım;9.09.2022;Değirmen-1;Mekanik;Selvo Bakım;Selvo Bakım;;8.09.2022;8.09.2022;14:30;14:50;20;Değirmen selvo kontrolleri yapıldı
+Bakım;10.09.2022;Değirmen-2;Mekanik;Selvo Bakım;Selvo Bakım;;9.09.2022;9.09.2022;14:50;15:15;25;Değirmen selvo kontrolleri yapıldı
+Arıza;11.09.2022;Paketleme-3;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;10.09.2022;10.09.2022;12:00;12:45;45;Paketleme-3 motor zincirlisi değiştirildi
+Arıza;11.09.2022;Pres-4;Mekanik;Elevatör Arızası;Elevatör Üst tambur Değişimi;1;11.09.2022;11.09.2022;08:30;16:00;450;Pres-4 elevatörünün üst tamburu ve redüktörü değiştirildi. Milin bilyaları sıfır takıldı
+Arıza;11.09.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;11.09.2022;11.09.2022;08:15;09:30;75;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Bakım;11.09.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;;11.09.2022;11.09.2022;09:00;12:00;180;2 adet sıfır rulo toplandı
+Arıza;11.09.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata Değişimi;1;11.09.2022;11.09.2022;08:15;08:45;30;Pres-4 disk civataları kesmişti değiştirldi, ayar yapıldı
+Bakım;11.09.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;11.09.2022;11.09.2022;08:45;09:00;15;Expander-1 ön gömlek ve konileri kontrol edildi
+Bakım;11.09.2022;Expander-4;Mekanik;Expander Bakımı;Expander Bakımı;;11.09.2022;11.09.2022;09:00;09:15;15;Expander-4 ön gömlek ve konileri kontrol edildi
+Arıza;11.09.2022;Kondisyonel-1;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;11.09.2022;11.09.2022;09:20;11:15;115;Kondisyonel-1 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Bakım;12.09.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;11.09.2022;11.09.2022;19:15;19:40;25;Elekler 3*4 oldu. Vuran taraf 3
+Bakım;13.09.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;12.09.2022;12.09.2022;19:40;20:05;25;Elekler 3*4 oldu. Vuran taraf 3
+Arıza;14.09.2022;Expander-3;Mekanik;Taç Arızası;Taç Değişimi;1;13.09.2022;13.09.2022;09:00;10:15;75;Expander-3 taç değişimi yapıldı
+Arıza;15.09.2022;Expander-3;Mekanik;Koni Arızası;Koni Değişimi;1;14.09.2022;14.09.2022;10:15;11:30;75;Expander-3 koni değişimi yapıldı
+Arıza;16.09.2022;Expander-3;Mekanik;Kırıcı Eleği Arızası;Kırıcı Eleği Değişimi;1;15.09.2022;15.09.2022;11:30;12:30;60;Expander-3 kırıcı eleği değişimi yapıldı
+Bakım;17.09.2022;Değirmen-1;Mekanik;Değirmen Bakımı;Değirmen Bakımı;;16.09.2022;16.09.2022;13:50;14:30;40;Değirmen çekiçleri rulmanları ve milleri kontrol edildi
+Bakım;18.09.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;354;17.09.2022;17.09.2022;08:15;09:30;75;Çekiçler ve miller komple değiştirildi
+Bakım;19.09.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Değişimi;354;18.09.2022;18.09.2022;10:45;12:25;100;Çekiçler ve miller komple değiştirildi
+Arıza;20.09.2022;Kondisyonel-2;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;19.09.2022;19.09.2022;14:00;16:00;120;Kondisyonel-2 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Arıza;21.09.2022;Kondisyonel-2;Mekanik;Vinas Arızası;Vinas Arızası;;20.09.2022;20.09.2022;11:00;11:45;45;Kondüksiyonel-2 vinas tesisatında kaçak vardı onarıldı
+Arıza;22.09.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;21.09.2022;21.09.2022;08:30;08:45;15;1 tane patlak elek vardı değiştirildi
+Arıza;23.09.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;3;22.09.2022;22.09.2022;10:25;10:50;25;Pres-4 ön ayna civataları kesmişti çıkarıldı yenileri takıldı yarın hepsi değiştirecelek 
+Arıza;23.09.2022;Kondisyonel-4;Mekanik;Su Tesisatı Arızası;Su Tesisatı Arızası;;23.09.2022;23.09.2022;09:30;10:00;30;Kondisyonel-4 su tesisatından su gelmiyordu hattın içi temizlendi
+Arıza;23.09.2022;Expander;Mekanik;Expander Sıkışması;Expander Sıkışması;;23.09.2022;23.09.2022;21:30;22:40;70;Eski fabrika expander sıkışmıştı stop civataları sökülüp içi boşaltıldı
+Arıza;23.09.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;;23.09.2022;23.09.2022;08:10;09:50;100;Pres-4 ön ayna civataları kesmişti çıkarıldı yenileri takıldı. Hepsi yenilendi civataların. Toz çemberi ayarlandı
+Bakım;23.09.2022;Expander;Mekanik;Yön Klepe Bakımı;Yön Klepe Değişimi;;23.09.2022;23.09.2022;10:25;12:20;115;Eski fabrika expaderin yön klepesi değiştirildi
+Bakım;23.09.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;23.09.2022;23.09.2022;23:10;23:20;10;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;23.09.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;23.09.2022;23.09.2022;23:20;23:30;10;Değirmen-1 elek ve çekiçler kontrol edildi
+Arıza;23.09.2022;Kondisyonel-3;Mekanik;Motor Keçe Arızası;Motor Keçe Değişimi;;23.09.2022;23.09.2022;08:15;08:30;15;Kondüksiyonel-3 motor keçesi değiştirildi
+Arıza;23.09.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;23.09.2022;23.09.2022;19:00;20:00;60;Expander-2 kırıcı sıkışmıştı açıldı kopan bıçakları kaynatıldı
+Bakım;23.09.2022;Expander-1;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;23.09.2022;23.09.2022;08:10;08:20;10;Expander-1 stop cıvata kontrolleri yapıldı
+Bakım;23.09.2022;Expander-2;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;23.09.2022;23.09.2022;08:20;08:30;10;Expander-2 stop cıvata kontrolleri yapıldı
+Bakım;23.09.2022;Expander-3;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;23.09.2022;23.09.2022;08:30;08:40;10;Expander-3 stop cıvata kontrolleri yapıldı
+Bakım;24.09.2022;Expander-4;Mekanik;Stop Cıvata Bakımı;Stop Cıvata Bakımı;;23.09.2022;23.09.2022;08:40;08:50;10;Expander-4 stop cıvata kontrolleri yapıldı
+Arıza;25.09.2022;Expander-2;Mekanik;Kafa Padıl Arızası;Kafa Padıl Değişimi;1;24.09.2022;24.09.2022;09:00;11:00;120;Expander-2 kafa padıl değişimi yapıldı
+Arıza;26.09.2022;Expander-2;Mekanik;Taç Arızası;Taç Değişimi;1;25.09.2022;25.09.2022;11:00;13:00;120;Expander-2 taç değişimi yapıldı
+Bakım;27.09.2022;Pres Elevatörü-1;Mekanik;Kayış Bakımı;Kayış Bakımı;;26.09.2022;26.09.2022;15:05;15:20;15;Pres Elevatörü-1 kayış ayarı yapılmıştır
+Bakım;28.09.2022;Pres Elevatörü-2;Mekanik;Kayış Bakımı;Kayış Bakımı;;27.09.2022;27.09.2022;15:20;15:35;15;Pres Elevatörü-2 kayış ayarı yapılmıştır
+Bakım;29.09.2022;Pres Elevatörü-3;Mekanik;Kayış Bakımı;Kayış Bakımı;;28.09.2022;28.09.2022;15:35;15:50;15;Pres Elevatörü-3 kayış ayarı yapılmıştır
+Bakım;30.09.2022;Pres Elevatörü-4;Mekanik;Kayış Bakımı;Kayış Bakımı;;29.09.2022;29.09.2022;15:50;16:05;15;Pres Elevatörü-4 kayış ayarı yapılmıştır
+Arıza;1.10.2022;Paketleme-4;Mekanik;Motor Arızası;Motor Değişimi;;30.09.2022;30.09.2022;14:30;15:00;30;Paketleme-4 zincirlinin motoru değiştirildi
+Arıza;2.10.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;1.10.2022;1.10.2022;10:00;11:00;60;Pres eleği-2 lastiği patlaktı değiştirildi
+Bakım;3.10.2022;Paketleme-4;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;2.10.2022;2.10.2022;14:00;17:00;180;Paketleme-4 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;4.10.2022;Pres Eleği-4;Mekanik;Elek Arızası;Elek Arızası;;3.10.2022;3.10.2022;08:10;10:15;125;Pres Eleği-4 elek patlaktı tamir edildi ve süpürge değişimi yapıldı
+Arıza;4.10.2022;Kondisyonel-3;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Bilya Değişimi;;4.10.2022;4.10.2022;11:30;16:25;295;Kondüksiyonel-3 motor tarafondaki ön mil yatak bilyası değiştirildi
+Bakım;4.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;4.10.2022;4.10.2022;11:00;11:15;15;Elekler 4*4 oldu. 
+Bakım;4.10.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;4.10.2022;4.10.2022;11:15;11:30;15;Elekler 4*4 oldu. 
+Bakım;4.10.2022;Paketleme-4;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;4.10.2022;4.10.2022;12:50;14:20;90;Paketleme-4 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;4.10.2022;Pres-4;Mekanik;Rulo Arızası;Rulo Değişimi;;4.10.2022;4.10.2022;08:15;11:50;215;Pres-4 rulo rulmanları dağılmıştı rulolar değiştirildi
+Arıza;4.10.2022;Pres-3;Mekanik;Melas Pompa Arızası;Melas Pompa Değişimi;1;4.10.2022;4.10.2022;14:30;15:00;30;3 nolu günlük pres pompası değişti
+Arıza;4.10.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;4.10.2022;4.10.2022;08:30;09:25;55;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Arıza;4.10.2022;Pres-1;Mekanik;Disk Arızası;Disk Değişimi;1;4.10.2022;4.10.2022;09:25;12:30;185;Pres-1 disk değişimi yapıldı sıfır disk yapıldı
+Arıza;4.10.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;4.10.2022;4.10.2022;09:30;09:45;15;1 tane patlak elek vardı değiştirildi
+Arıza;4.10.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;4.10.2022;4.10.2022;09:45;10:00;15;1 tane patlak elek vardı değiştirildi
+Bakım;5.10.2022;Paketleme-3;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;4.10.2022;4.10.2022;13:00;13:45;45;Paketleme-3 zicirlisinin padıllarının yarısı değiştirildi
+Arıza;6.10.2022;Expander-1;Mekanik;Kırıcı Arıza;Kaplin Değişimi;;5.10.2022;5.10.2022;10:20;11:40;80;Expander-1 kırıcının kaplini kırılmıştı yenisi ile değiştirildi
+Arıza;6.10.2022;Pres-3;Mekanik;Melas Pompa Arızası;Melas Motor Değişimi;1;6.10.2022;6.10.2022;19:45;22:40;175;Pres-3 melas gelmiyordu motor poampası yanmış elektrikçi ile değişimi yapıldı
+Bakım;6.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;6.10.2022;6.10.2022;23:00;23:30;30;Elekler 4*3 oldu. 
+Bakım;6.10.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;6.10.2022;6.10.2022;23:30;00:00;30;Elekler 4*3 oldu. 
+Bakım;6.10.2022;Pres-4;Mekanik;Disk Bakımı;Disk Civata Değişimi;;6.10.2022;6.10.2022;10:30;12:00;90;Disk civataları kontrol edildi 2 tanesi değiştirildi
+Bakım;6.10.2022;Paketleme-3;Mekanik;Zincir Bakımı;Zincir Padıl Değişimi;;6.10.2022;6.10.2022;13:30;14:30;60;Paketleme-3 zicirlisinin padıllarının yarısı değiştirildi
+Bakım;6.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;6.10.2022;6.10.2022;14:30;14:45;15;Elekler 4*4 oldu. 
+Bakım;6.10.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;6.10.2022;6.10.2022;14:45;15:00;15;Elekler 4*4 oldu. 
+Arıza;6.10.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;6.10.2022;6.10.2022;18:00;18:30;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;6.10.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;6.10.2022;6.10.2022;18:30;19:00;30;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;6.10.2022;Expander-4;Mekanik;Koni Arızası;Koni Hortumu Değişimi;;6.10.2022;6.10.2022;14:00;14:30;30;Expander-4 koni hortumu patlamıştı yenisi ile değiştirildi
+Arıza;8.10.2022;Pres-4;Mekanik;Ön Ayna Arızası;Ön Ayna Cıvata Değişimi;;6.10.2022;6.10.2022;09:40;10:30;50;Pres-4 ön ayna cıvata kesmişti kaynak ile diskten çıkartılıp yenileri takıldı
+Arıza;12.10.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;;8.10.2022;8.10.2022;10:30;10:50;20;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;13.10.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;12.10.2022;12.10.2022;08:10;08:30;20;2 tane patlak elek vardı değiştirildi
+Arıza;14.10.2022;Paketleme-4;Mekanik;Motor Arızası;Motor Dişli Değişimi;1;13.10.2022;13.10.2022;13:00;13:45;45;Paketleme-4 zincirlinin motor dişlisi değiştirildi
+Arıza;15.10.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;14.10.2022;14.10.2022;09:15;09:35;20;1 tane patlak elek vardı değiştirildi
+Bakım;16.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;15.10.2022;15.10.2022;02:30;03:10;40;Elekler ve çekiçler kontrol edildi
+Arıza;17.10.2022;Expander-1;Mekanik;Yağ Soğutucu Filtre Arızası;Yağ Soğutucu Filtre Geğişimi;;16.10.2022;16.10.2022;12:00;12:10;10;Expander-1 yağ soğutucu filtresi değiştirildi
+Arıza;20.10.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Arızası;2;17.10.2022;17.10.2022;08:30;08:50;20;2 tane patlak elek vardı değiştirildi
+Arıza;20.10.2022;Değirmen-2;Mekanik;Üst Besleme Arızası;Üst Besleme Arızası;;20.10.2022;20.10.2022;10:30;11:00;30;Değirmen-2 üst beslemesi sıkışmıştı içi açılıp kaldırıldı
+Bakım;20.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;20.10.2022;20.10.2022;16:15;16:25;10;Elekler 4*3 oldu. Vuran taraf 3
+Bakım;20.10.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;20.10.2022;20.10.2022;16:25;16:40;15;Elekler 4*3 oldu. Vuran taraf 3
+Arıza;20.10.2022;Değirmen-2;Mekanik;Mıknatıs Kapağı Arızası;Mıknatıs Kapağı Arızası;;20.10.2022;20.10.2022;17:20;18:20;60;Değirmen-2 mıknatıs kapağı mal kaçırıyordu yeni delikler açılıp sorun giderildi
+Arıza;20.10.2022;Expander-1;Mekanik;Yağ Soğutucu Filtre Arızası;Yağ Soğutucu Filtre Geğişimi;;20.10.2022;20.10.2022;18:10;18:40;30;Expander-1 yağ soğutucu filtresi değiştirildi
+Arıza;20.10.2022;Değirmen-1;Mekanik;Rulman Arızası;Rulman Değişimi;;20.10.2022;20.10.2022;00:30;01:45;75;Değirmen-1 rulman dağılmıştı soğutulup söküldü sabah değişimi yapılacaktır
+Arıza;20.10.2022;Değirmen-1;Mekanik;Rulman Arızası;Rulman Değişimi;;20.10.2022;20.10.2022;08:10;10:10;120;Değirmen-1 rulman değişimi yapılmıştır
+Arıza;20.10.2022;Pres-4;Mekanik;Rulo Arızası;Rulo Değişimi;2;20.10.2022;20.10.2022;10:30;12:30;120;Pres-4 rulo değişimi yapıldı. Ruloların milleri kaynatıldı
+Bakım;20.10.2022;Pres Elevatörü-1;Mekanik;Kova Bakımı;Kova Değişimi;20;20.10.2022;20.10.2022;08:10;09:30;80;Pres elevatörü-1 eksik ve kırık kovalar vardı değiştirildi
+Bakım;20.10.2022;Pres Elevatörü-2;Mekanik;Kova Bakımı;Kova Değişimi;23;20.10.2022;20.10.2022;09:30;10:30;60;Pres elevatörü-2 eksik ve kırık kovalar vardı değiştirildi
+Arıza;21.10.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;20.10.2022;20.10.2022;10:45;11:30;45;Sarsak-3 üst pistonun oturduğu ayağın demiri çatlamıştı değiştirildi
+Bakım;22.10.2022;Pres Elevatörü-3;Mekanik;Tambur Bakımı;Tambur Bakımı;;21.10.2022;21.10.2022;11:00;11:40;40;Pres elevatörü-3 motor tarafındaki tamburu ayarlandı
+Bakım;23.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;22.10.2022;22.10.2022;00:10;00:35;25;Elekler 4*3 oldu vuran taraf 3 oldu
+Bakım;24.10.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;23.10.2022;23.10.2022;00:35;01:00;25;Elekler 4*3 oldu vuran taraf 3 oldu
+Arıza;27.10.2022;Pres Eleği-1;Mekanik;Akış Arızası;Akış Arızası;;24.10.2022;24.10.2022;08:00;08:15;15;Pres eleği-1 akışından 2 adet kova alındı
+Arıza;27.10.2022;Paketleme-1;Mekanik;Kefe Arızası;Kefe Arızası;;27.10.2022;27.10.2022;14:00;15:30;90;Yeni fabrika paketleme-1 kefenin kantar mili kırılmıştı kaynatıldı
+Bakım;27.10.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;27.10.2022;27.10.2022;08:30;08:45;15;Elekler 3*3 oldu
+Bakım;28.10.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;27.10.2022;27.10.2022;08:45;09:00;15;Elekler 3*3 oldu
+Bakım;29.10.2022;Pres Elevatörü-4;Mekanik;Kestemit Bakımı;Kestemit Bakımı;;28.10.2022;28.10.2022;09:30;10:00;30;Yeni fabrika pres elevatörü-4 akıştaki kestamit bitmişti değiştirildi
+Bakım;30.10.2022;Pres Elevatörü;Mekanik;Elevatör Bakımı;Elevatör Bakımı;;29.10.2022;29.10.2022;13:20;16:00;160;Eski fabrika pres elevatörünün kovaları ve ek yeri kontrol edildi sağ-sol ayarı yapıldı
+Bakım;31.10.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;30.10.2022;30.10.2022;09:00;10:30;90;Yeni fabrika değirmen-1 çekiçler ters-düz yapıldı elekler 4*4 yapıldı
+Bakım;1.11.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Ters -Düz Yapılması;;31.10.2022;31.10.2022;10:30;12:00;90;Yeni fabrika değirmen-2 çekiçler ters-düz yapıldı elekler 4*4 yapıldı
+Arıza;4.11.2022;Değirmen-1;Mekanik;Devir Bekçisi Arızası;Sensör Ayağı Değişimi;;1.11.2022;1.11.2022;22:40;23:50;70;Değirmen-1 devir bekçisi sensör ayağı değiştirildi
+Bakım;4.11.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;4.11.2022;4.11.2022;23:50;00:05;15;Elekler 5*4 yapıldı
+Arıza;4.11.2022;Expander-2;Mekanik;Ön Gömlek Arızası;Ön Gömlek Değişimi;1;4.11.2022;4.11.2022;00:30;01:40;70;Expander-2 ön gömleği dağılmıştı değiştirildi
+Arıza;5.11.2022;Expander-2;Mekanik;Kafa Padıl Arızası;Kafa Padıl Değişimi;1;4.11.2022;4.11.2022;01:40;02:40;60;Expander-2 kafa padıl değişimi yapıldı
+Arıza;6.11.2022;Expander-2;Mekanik;Stop Cıvata Arızası;Stop Cıvata Değişimi;3;5.11.2022;5.11.2022;02:40;03:00;20;Expander-2 3 adet stop civatası değiştirildi
+Arıza;7.11.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;6.11.2022;6.11.2022;03:00;03:30;30;Expander-2 kırıcı yaprakları kopmuştu kaynatıldı
+Arıza;8.11.2022;Pres-2;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;7.11.2022;7.11.2022;10:00;10:30;30;Pres-2 sigorta kesmişti değiştirildi
+Bakım;9.11.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;8.11.2022;8.11.2022;08:00;08:30;30;Elekler 5*4 yapıldı
+Arıza;10.11.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;9.11.2022;9.11.2022;08:00;09:50;110;Expander-2 kırıcı yaprakları kopmuştu kaynatıldı yeni elek takıldı
+Arıza;11.11.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Sıkışması;;10.11.2022;10.11.2022;08:00;08:30;30;Değirmen-1 beslemesi sıkışmıştı açıldı
+Arıza;11.11.2022;Pres-2;Mekanik;Vinas Pompa Arızası;Vinas Pompa Değişimi;1;11.11.2022;11.11.2022;08:00;09:50;110;Pres-2 vinas pompası değiştirildi
+Arıza;11.11.2022;Pres-3;Mekanik;Disk Arızası;Disk Değişimi;1;11.11.2022;11.11.2022;08:00;11:00;180;Pres-3 disk değişimi yapıldı taşlanmış disk takıldı
+Arıza;11.11.2022;Pres-3;Mekanik;Rulo Arızası;Rulo Değişimi;2;11.11.2022;11.11.2022;11:00;12:00;60;Pres-3 rulo değişimi yapıldı çıkma rulo takıldı
+Arıza;11.11.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;11.11.2022;11.11.2022;14:15;16:00;105;Pres eleği-2 lastiği patlaktı değiştirildi
+Arıza;11.11.2022;Pres-2;Mekanik;Rulo Arızası;Rulo Değişimi;2;11.11.2022;11.11.2022;14:15;16:30;135;Pres-2 rulo değişimi yapıldı çıkma rulo takıldı
+Bakım;11.11.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;11.11.2022;11.11.2022;08:00;08:15;15;Elekler 4*4 yapıldı
+Bakım;11.11.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;11.11.2022;11.11.2022;08:15;08:30;15;Elekler 4*4 yapıldı
+Arıza;11.11.2022;Pres-1;Mekanik;Disk Arızası;Disk Değişimi;1;11.11.2022;11.11.2022;08:15;10:30;135;Pres-1 disk değişimi yapıldı sıfır disk takıldı
+Arıza;11.11.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;11.11.2022;11.11.2022;10:30;12:30;120;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı
+Arıza;11.11.2022;Pres-1;Mekanik;Aşınma Ringi Arızası;Aşınma Ringi Değişimi;1;11.11.2022;11.11.2022;13:30;15:00;90;Pres-1 aşınma ringi değiştirildi
+Bakım;12.11.2022;Pres-3;Mekanik;Rulo Bakımı;Rulo Toplama;2;11.11.2022;11.11.2022;09:10;12:45;215;2 adet sıfır rulo toplandı
+Bakım;13.11.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;2;12.11.2022;12.11.2022;13:45;16:30;165;2 adet sıfır rulo toplandı
+Arıza;14.11.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;13.11.2022;13.11.2022;18:30;19:00;30;Yeni fabrika sarsak-3 piston valfinin hortumu değiştirildi
+Arıza;15.11.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;14.11.2022;14.11.2022;19:10;19:40;30;1 tane patlak elek vardı değiştirildi
+Bakım;16.11.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;15.11.2022;15.11.2022;12:00;12:20;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;22.11.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;16.11.2022;16.11.2022;12:20;12:40;20;Elekler 4*3 oldu vuran taraf 3
+Bakım;22.11.2022;Expander-3;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;22.11.2022;22.11.2022;08:00;09:00;60;Expander-3 kafa padıl değiştirildi
+Arıza;22.11.2022;Paketleme-3;Mekanik;Dikiş Makinası Arızası;Dikiş Makinası Arızası;;22.11.2022;22.11.2022;21:10;21:30;20;Paketleme-3 dikiş makinasının kayışı kopmuştu değiştirildi
+Arıza;22.11.2022;Pres Elevatörü-1;Mekanik;Akış Arızası;Akış Arızası;;22.11.2022;22.11.2022;22:45;23:10;25;Yeni fabrika 1 nolu pres elevatörünün akışında delik vardı kapatıldı
+Bakım;22.11.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Değişimi;;22.11.2022;22.11.2022;08:30;16:30;480;Kondisyonel-2 melasiyerin padılları komple değiştirildi
+Arıza;22.11.2022;Pres-1;Mekanik;Bıçak Arızası;Bıçak Arızası;;22.11.2022;22.11.2022;23:10;23:40;30;Pres-1 bıçağı çıkmıştı yerine takıldı
+Arıza;23.11.2022;Pres Eleği-2;Mekanik;Lastik Arızası;Lastik Değişimi;;22.11.2022;22.11.2022;18:40;19:30;50;Yeni fabrika pres eleği-2 lastik patlamıştı değişirildi
+Arıza;24.11.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;23.11.2022;23.11.2022;11:00;11:20;20;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Bakım;25.11.2022;Pres-1;Mekanik;Kasnak Bakımı;Rulman Değişimi;1;24.11.2022;24.11.2022;08:00;12:00;240;Pres-1 kasnak kaplin yanındaki yatak rulmanı değiştirildi
+Arıza;25.11.2022;Mikser;Mekanik;Kapak Arızası;Kapak Arızası;;25.11.2022;25.11.2022;02:55;03:10;15;Eski fabrika mikserin kapağı açmıyordu valfi yağlandı
+Arıza;25.11.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;25.11.2022;25.11.2022;07:10;07:35;25;1 tane patlak elek vardı değiştirildi
+Bakım;29.11.2022;Kondisyonel-2;Mekanik;Padıl Bakımı;Padıl Bakımı;;25.11.2022;25.11.2022;09:20;09:30;10;Kondisyonel-2 padılları kontrol edildi
+Arıza;29.11.2022;Sarsak-4;Mekanik;Piston Arızası;Piston Arızası;;29.11.2022;29.11.2022;19:15;19:50;35;Yeni fabrika sarsak-4 alt piston açmıyordu bakıldı
+Arıza;30.11.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;29.11.2022;29.11.2022;08:30;08:50;20;2 tane patlak elek vardı değiştirildi
+Arıza;1.12.2022;Mikser;Mekanik;Mısır Suyu Pompa Arızası;Mısır Suyu Pompa Değişimi;1;30.11.2022;30.11.2022;08:10;09:20;70;Yeni fabrika miksere mısır suyu basan pompa değişimi yapıldı
+Bakım;2.12.2022;Kondisyonel-3;Mekanik;Padıl Bakımı;Padıl Bakımı;;1.12.2022;1.12.2022;08:15;08:30;15;Kondisyonel-3 padılları kontrol edildi
+Bakım;3.12.2022;Sarsak-3;Mekanik;Sensör Bakımı;Sensör Bakımı;;2.12.2022;2.12.2022;08:40;09:30;50;Yeni fabrika sarsak-3 üst sensörüne ayar yapıldı
+Arıza;4.12.2022;Kondisyonel-1;Mekanik;Vinas Borusu Arızası;Vinas Borusu Arızası;;3.12.2022;3.12.2022;23:30;00:00;30;Yeni fabrika kondisyonel-1 vinas borusu delikti kaynatıldı
+Arıza;5.12.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;4.12.2022;4.12.2022;18:10;18:40;30;2 tane patlak elek vardı değiştirildi
+Arıza;6.12.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Sıkışması;;5.12.2022;5.12.2022;01:30;02:00;30;Yeni fabrika değirmen-1 besleme sıkışmıştı kaldırıldı kova gelmiş
+Arıza;7.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;2;6.12.2022;6.12.2022;08:00;08:30;30;2 tane patlak elek vardı değiştirildi
+Arıza;8.12.2022;Değirmen-1;Mekanik;Değirmen Sıkışması;Değirmen Sıkışması;;7.12.2022;7.12.2022;20:30;20:55;25;Yeni fabrika değirmen-1 sıkışmıştı içi açılıp temizlendi
+Arıza;9.12.2022;Değirmen-1;Mekanik;Değirmen Sıkışması;Değirmen Sıkışması;;8.12.2022;8.12.2022;23:30;00:00;30;Yeni fabrika değirmen-1 sıkışmıştı içi açılıp temizlendi
+Arıza;10.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;9.12.2022;9.12.2022;19:00;19:30;30;1 tane patlak elek vardı değiştirildi
+Arıza;11.12.2022;Expander-1;Mekanik;Üst Klepe Arızası;Üst Klepe Arızası;;10.12.2022;10.12.2022;23:00;23:30;30;Yeni fabrika expander-1 üst klepe mal kaçırıyordu yapıldı
+Arıza;12.12.2022;Değirmen-2;Mekanik;Besleme Arızası;Besleme Sıkışması;;11.12.2022;11.12.2022;01:10;02:30;80;Yeni fabrika değirmen-2 beslemeye demir parçası gelmişti içi açılıp kardırıldı
+Arıza;13.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;12.12.2022;12.12.2022;08:40;09:00;20;1 tane patlak elek vardı değiştirildi
+Arıza;14.12.2022;Pres Elevatörü-2;Mekanik;Akış Arızası;Akış Arızası;;13.12.2022;13.12.2022;09:00;09:15;15;Yeni fabrika pres elevatörü-2 akışında kaçak vardı kapatıldı
+Bakım;15.12.2022;Expander-1;Mekanik;Taç Bakımı;Taç Değişimi;1;14.12.2022;14.12.2022;08:45;10:45;120;Expander-1 taç değişimi yapıldı
+Bakım;16.12.2022;Expander-1;Mekanik;Koni Bakımı;Koni Değişimi;1;15.12.2022;15.12.2022;10:45;11:45;60;Expander-1 koni değişimi yapıldı
+Bakım;17.12.2022;Expander-1;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;16.12.2022;16.12.2022;11:45;12:30;45;Expander-1 kafa padıl değişimi yapıldı
+Bakım;17.12.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;17.12.2022;17.12.2022;18:50;20:30;100;Expander-2 kırıcının iki adet bıçağı değiştirildi
+Bakım;17.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;17.12.2022;17.12.2022;19:00;19:25;25;Elekler 3 yapıldı vuran taraf 3
+Bakım;17.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;17.12.2022;17.12.2022;19:25;19:45;20;Elekler 3 yapıldı vuran taraf 3
+Arıza;17.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;17.12.2022;17.12.2022;21:35;22:00;25;1 tane patlak elek vardı değiştirildi
+Bakım;17.12.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;17.12.2022;17.12.2022;09:20;10:20;60;Değirmen-1 çekiç değişimi yapıldı
+Bakım;17.12.2022;Değirmen-1;Mekanik;Mil Bakımı;Mil Değişimi;16;17.12.2022;17.12.2022;10:20;10:45;25;Değirmen-1 mil değişimş yapıldı
+Bakım;17.12.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;17.12.2022;17.12.2022;10:45;11:45;60;Değirmen-2 çekiç değişimi yapıldı
+Bakım;17.12.2022;Değirmen-2;Mekanik;Mil Bakımı;Mil Değişimi;16;17.12.2022;17.12.2022;11:45;12:00;15;Değirmen-2 mil değişimş yapıldı
+Bakım;17.12.2022;Expander-2;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Bakımı;;17.12.2022;17.12.2022;08:00;08:45;45;Expander-2 kafa padıl bakımı yapıldı kontrol edildi
+Bakım;17.12.2022;Expander-2;Mekanik;Sitop Civata Bakımı;Sitop CivataDeğişimi;3;17.12.2022;17.12.2022;08:45;09:10;25;Expander-2 3 adet stop civatası değiştirildi
+Arıza;17.12.2022;Expander-2;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;17.12.2022;17.12.2022;11:00;12:00;60;Expander-1 kırıcının iki adet bıçağı değiştirildi
+Bakım;17.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;17.12.2022;17.12.2022;22:15;23:00;45;Yeni fabrika değirmen-2 elekleri ve çeneleri kontrol edildi
+Arıza;17.12.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;3;17.12.2022;17.12.2022;18:40;19:30;50;3 tane patlak elek vardı değiştirildi
+Arıza;17.12.2022;Pres-4;Mekanik;Sigorta Arızası;Sigorta Değişimi;2;17.12.2022;17.12.2022;23:20;01:25;125;Pres-4 sigorta kemişti değişim yapıldı
+Arıza;17.12.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;1;17.12.2022;17.12.2022;02:30;02:50;20;1 tane patlak elek vardı değiştirildi
+Arıza;18.12.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;17.12.2022;17.12.2022;08:05;08:30;25;2 tane patlak elek vardı değiştirildi
+Bakım;18.12.2022;Pres-4;Mekanik;Disk Bakımı;Disk Civata Değişimi;;18.12.2022;18.12.2022;10:30;16:00;330;Pres-4 ön ayna cıvata kesmişti kaynak ile diskten çıkartılıp yenileri takıldı
+Bakım;18.12.2022;Pres-4;Mekanik;Rulo Bakımı;Rulo Değişimi;2;18.12.2022;18.12.2022;10:50;12:30;100;Yeni fabrika pres-4 rulo değişimi yapıldı sıfır rulo takıldı
+Arıza;18.12.2022;Pres-4;Mekanik;Rulo Bakımı;Rulo Mili Değişimi;2;18.12.2022;18.12.2022;15:45;17:15;90;Yeni fabrika 4 nolu pres rulo milleri değiştirildi
+Bakım;18.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;18.12.2022;18.12.2022;21:30;21:45;15;Elekler 4*4 yapıldı
+Bakım;18.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;18.12.2022;18.12.2022;21:45;22:00;15;Elekler 4*4 yapıldı
+Arıza;18.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;18.12.2022;18.12.2022;03:10;03:30;20;1 tane patlak elek vardı değiştirildi
+Arıza;18.12.2022;Pres-1;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;18.12.2022;18.12.2022;05:00;05:35;35;Pres-1 sigorta kesmişti değiştirildi
+Bakım;18.12.2022;Pres-1;Mekanik;Pres Bakımı;Pres Bakımı;;18.12.2022;18.12.2022;08:15;09:45;90;Yeni fabrika pres-1 kuyruk mili kontrol edildi yağ basıldı göbek rulmanların yağı değiştirildi
+Arıza;18.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;18.12.2022;18.12.2022;08:10;08:40;30;1 tane patlak elek vardı değiştirildi
+Arıza;18.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;18.12.2022;18.12.2022;15:40;16:10;30;1 tane patlak elek vardı değiştirildi
+Arıza;18.12.2022;Paketleme-3;Mekanik;Dikiş Makinası Arızası;Dikiş Makinası Arızası;;18.12.2022;18.12.2022;23:40;00:45;65;Yeni fabrika paketleme-3 dikiş makinasının yukarı aşağı mili değiştirildi
+Arıza;18.12.2022;Pres Eleği-3;Mekanik;Elek Arızası;Elek Arızası;;18.12.2022;18.12.2022;09:00;09:20;20;Yeni fabrika pres eleği-3 elekte delik vardı değiştirildi
+Arıza;18.12.2022;Paketleme-2;Mekanik;Kefe Arızası;Kefe Arızası;;18.12.2022;18.12.2022;09:30;09:45;15;Yeni fabrika paketleme-2 kefenin piston ayağı kırılmıştı kaynak yapıldı
+Arıza;18.12.2022;Sarsak-2;Mekanik;Piston Arızası;Piston Arızası;;18.12.2022;18.12.2022;14:30;15:00;30;Yeni fabrika sarsak-2 alt piston demiri değiştirildi
+Bakım;18.12.2022;Sarsak-1;Mekanik;Sensör Bakımı;Sensör Bakımı;;18.12.2022;18.12.2022;17:00;17:15;15;Sarsak-1 sensör ayarı yapıldı
+Bakım;18.12.2022;Teleskopik Bant-3;Mekanik;Bant Bakımı;Bant Bakımı;;18.12.2022;18.12.2022;23:00;23:20;20;Teleskopik Bant-3 gergi ayarı yapıldı
+Arıza;19.12.2022;Teleskopik Bant-1;Mekanik;Bant Arızası;Bant Arızası;;18.12.2022;18.12.2022;22:40;23:40;60;Bant çalışmıyordu kabloları yenilendi
+Arıza;19.12.2022;Değirmen-1;Mekanik;Elek Arızası;Elek Değişimi;1;19.12.2022;19.12.2022;01:45;02:15;30;1 tane patlak elek vardı değiştirildi
+Arıza;19.12.2022;Pres-3;Mekanik;Sigorta Arızası;Sigorta Değişimi;1;19.12.2022;19.12.2022;10:20;11:00;40;Pres-3 sigorta kesmişti yenisi ile değiştirildi
+Arıza;19.12.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata değişimi;5;19.12.2022;19.12.2022;08:15;13:15;300;Pres-4 cıvata kesmişti değişitildi. Rulo mili çatlamıştı kaynak yapıldı
+Arıza;19.12.2022;Sarsak-3;Mekanik;Basınç Saati Arızası;Basınç Saati Değişimi;1;19.12.2022;19.12.2022;14:00;14:20;20;Sarsak basınç saati patlamıştı değiştirildi
+Bakım;19.12.2022;Değirmen-1;Mekanik;Selvo Bakım;Selvo Bakım;;19.12.2022;19.12.2022;14:30;14:50;20;Değirmen selvo kontrolleri yapıldı
+Bakım;19.12.2022;Değirmen-2;Mekanik;Selvo Bakım;Selvo Bakım;;19.12.2022;19.12.2022;14:50;15:15;25;Değirmen selvo kontrolleri yapıldı
+Arıza;19.12.2022;Paketleme-3;Mekanik;Motor Arızası;Motor Zincir Değişimi;1;19.12.2022;19.12.2022;12:00;12:45;45;Paketleme-3 motor zincirlisi değiştirildi
+Arıza;19.12.2022;Pres-4;Mekanik;Elevatör Arızası;Elevatör Üst tambur Değişimi;1;19.12.2022;19.12.2022;08:30;16:00;450;Pres-4 elevatörünün üst tamburu ve redüktörü değiştirildi. Milin bilyaları sıfır takıldı
+Arıza;19.12.2022;Pres-1;Mekanik;Rulo Arızası;Rulo Değişimi;2;19.12.2022;19.12.2022;08:15;09:30;75;Pres-1 rulo değişimi yapıldı sıfır rulo takıldı.
+Bakım;19.12.2022;Pres-2;Mekanik;Rulo Bakımı;Rulo Toplama;;19.12.2022;19.12.2022;09:00;12:00;180;2 adet sıfır rulo toplandı
+Arıza;19.12.2022;Pres-4;Mekanik;Disk Arızası;Disk Civata Değişimi;1;19.12.2022;19.12.2022;08:15;08:45;30;Pres-4 disk civataları kesmişti değiştirldi, ayar yapıldı
+Bakım;19.12.2022;Expander-1;Mekanik;Expander Bakımı;Expander Bakımı;;19.12.2022;19.12.2022;08:45;09:00;15;Expander-1 ön gömlek ve konileri kontrol edildi
+Bakım;19.12.2022;Expander-4;Mekanik;Expander Bakımı;Expander Bakımı;;19.12.2022;19.12.2022;09:00;09:15;15;Expander-4 ön gömlek ve konileri kontrol edildi
+Arıza;20.12.2022;Kondisyonel-1;Mekanik;Ön Mil Yatak Arızası;Ön Mil Yatak Keçe Değişimi;;19.12.2022;19.12.2022;09:20;11:15;115;Kondisyonel-1 ön milin keçeleri değiştirildi Yatağa kaynak yapıldı
+Bakım;21.12.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;20.12.2022;20.12.2022;19:15;19:40;25;Elekler 3*4 oldu. Vuran taraf 3
+Bakım;22.12.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;21.12.2022;21.12.2022;19:40;20:05;25;Elekler 3*4 oldu. Vuran taraf 3
+Arıza;23.12.2022;Expander-3;Mekanik;Taç Arızası;Taç Değişimi;1;22.12.2022;22.12.2022;09:00;10:15;75;Expander-3 taç değişimi yapıldı
+Arıza;24.12.2022;Kondisyonel-4;Mekanik;Motor Arızası;Motor Kayış Değişimi;4;23.12.2022;23.12.2022;19:30;20:15;45;Kondisyonel-4  kayışları yandı, değiştirildi.
+Arıza;25.12.2022;Paketleme-4;Mekanik;Kefe Arızası;Kefe Arızası;;24.12.2022;24.12.2022;04:45;04:55;10;Yeni fabrika paketleme-4 kefe pistonun yerinden çıkmıştı takıldı
+Arıza;25.12.2022;Sarsak-3;Mekanik;Sarsak Arızası;Sarsak Arızası;;25.12.2022;25.12.2022;14:30;14:55;25;Sarsak-3 mal kaçırıyordu kaçak yerleri kapatıldı
+Bakım;25.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;25.12.2022;25.12.2022;09:00;09:15;15;Elekler 4*4 oldu
+Bakım;25.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;25.12.2022;25.12.2022;09:15;09:30;15;Elekler 4*4 oldu
+Bakım;25.12.2022;Pres-4;Mekanik;Motor Kayış Bakımı;Motor Kayış Bakımı;;25.12.2022;25.12.2022;09:00;09:30;30;Pres-4 motor kayışları gerildi
+Arıza;25.12.2022;Paketleme-3;Mekanik;Zincir Arızası;Zincir Arızası;;25.12.2022;25.12.2022;11:00;12:00;60;Paketleme-3 zinciri ek yerinden koptu yapıldı
+Bakım;25.12.2022;Expander-4;Mekanik;Koni Yağ Bakımı;Koni Yağ Bakımı;;25.12.2022;25.12.2022;15:00;15:35;35;Expander-4 koni yağ değişimi yapıldı
+Arıza;25.12.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;25.12.2022;25.12.2022;18:20;18:35;15;Değirmen-1 beslemesi sıkışmıştı açıldı
+Bakım;25.12.2022;Mikser;Mekanik;Mikser Bakımı;Mikser Bakımı;;25.12.2022;25.12.2022;13:50;14:10;20;Yeni fabrika mikserde kaçaklar vardı kapatıldı
+Arıza;25.12.2022;Mikser ;Mekanik;Havalı Vana Arızası;Havalı Vana Arızası;;25.12.2022;25.12.2022;08:30;12:00;210;Yeni fabrika mikser yanındaki tankların havalı vanaları kaçak vardı yapıldı
+Arıza;25.12.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;25.12.2022;25.12.2022;08:20;08:30;10;2 adet patlak elek vardı değiştirildi
+Arıza;25.12.2022;Expander-3;Mekanik;Kırıcı Arıza;Kırıcı Arıza;;25.12.2022;25.12.2022;11:30;12:10;40;Expander-3 kırıcı sıkışmıştı temizlendi
+Bakım;25.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Bakımı;;25.12.2022;25.12.2022;12:00;12:08;8;Değirmen-1 elek ve çekiçler kontrol edildi
+Bakım;25.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Bakımı;;25.12.2022;25.12.2022;12:08;12:15;7;Değirmen-2 elek ve çekiçler kontrol edildi
+Bakım;25.12.2022;Paketleme-1;Mekanik;Kefe Motor Bakımı;Kefe Motor Bakımı;;25.12.2022;25.12.2022;14:00;16:00;120;Eski fabrika paketleme-1 kefe motoru için redüktör ve motor hazırlandı
+Bakım;25.12.2022;Paketleme-2;Mekanik;Vibratör Bakımı;Vibratör Bakımı;;25.12.2022;25.12.2022;14:00;15:15;75;Eski fabrika paketleme-2 bunkere redüktör kaynatıldı
+Arıza;25.12.2022;Değirmen-1;Mekanik;Besleme Arızası;Besleme Arızası;;25.12.2022;25.12.2022;17:00;17:15;15;Değirmen-1 beslemesi sıkışmıştı açıldı
+Bakım;25.12.2022;Pres-1;Mekanik;Pres Bakımı;Pres Bakımı;;25.12.2022;25.12.2022;09:30;12:00;150;Pres-1 rulmanları kontrol edilip yağlandı sabitleme ayağı kırıktı kaynak yapıldı
+Bakım;25.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;25.12.2022;25.12.2022;21:25;21:50;25;Elekler4*3 oldu vuran taraf 3
+Bakım;25.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;25.12.2022;25.12.2022;21:50;22:05;15;Elekler4*3 oldu vuran taraf 3
+Arıza;25.12.2022;Sarsak-3;Mekanik;Piston Arızası;Piston Arızası;;25.12.2022;25.12.2022;03:30;03:45;15;Sarsak-3 piston açmıyordu hava hortumu değiştirildi
+Bakım;25.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;25.12.2022;25.12.2022;04:30;04:50;20;Elekler 3*3 oldu
+Bakım;25.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;25.12.2022;25.12.2022;04:50;05:10;20;Elekler 3*3 oldu
+Bakım;25.12.2022;Değirmen-2;Mekanik;Alt Çene Bakımı;Alt Çene Değişimi;2;25.12.2022;25.12.2022;09:00;12:00;180;Değirmen-2 alt çene değişimi yapıldı
+Bakım;25.12.2022;Değirmen-2;Mekanik;Çekiç Bakımı;Çekiç Değişimi;304;25.12.2022;25.12.2022;12:00;14:00;120;Değirmen-2 çekiç değişimi yapıldı
+Bakım;25.12.2022;Değirmen-2;Mekanik;Mil Bakımı;Mil Değişimi;16;25.12.2022;25.12.2022;14:00;16:00;120;Değirmen-2 mil değişimş yapıldı
+Bakım;25.12.2022;Expander-4;Mekanik;Kafa Padıl Bakımı;Kafa Padıl Değişimi;1;25.12.2022;25.12.2022;11:30;13:30;120;Expander-4 kafa padılı değimi yapıldı
+Bakım;25.12.2022;Pres-Küçük;Mekanik;Pres Bakımı;Pres Bakımı;;25.12.2022;25.12.2022;11:30;16:30;300;Pres-Küçük ayna ve toz çemberinde kaçaklar vardı kaynakla giderildi
+Bakım;26.12.2022;Teleskopik Bant-1;Mekanik;Bant Bakımı;Bant Bakımı;;25.12.2022;25.12.2022;15:15;15:30;15;Teleskopik Bant-1 gergi ayarı yapıldı
+Bakım;27.12.2022;Değirmen-1;Mekanik;Elek Bakımı;Elek Değişimi;;26.12.2022;26.12.2022;15:30;15:45;15;Elekler 4*4 oldu. 
+Bakım;28.12.2022;Değirmen-2;Mekanik;Elek Bakımı;Elek Değişimi;;27.12.2022;27.12.2022;15:45;16:00;15;Elekler 4*4 oldu. 
+Bakım;29.12.2022;Değirmen-1;Mekanik;Çekiç Bakımı;Çekiç Bakımı;;28.12.2022;28.12.2022;08:35;08:50;15;Elekler ve çekiçler kontrol edildi
+Arıza;30.12.2022;Kondisyonel-1;Mekanik;Vinas Borusu Arızası;Vinas Borusu Arızası;;29.12.2022;29.12.2022;23:30;00:00;30;Yeni fabrika kondisyonel-1 vinas borusu delikti kaynatıldı
+Arıza;31.12.2022;Değirmen-2;Mekanik;Elek Arızası;Elek Değişimi;2;30.12.2022;30.12.2022;18:10;18:40;30;2 tane patlak elek vardı değiştirildi
+;;;;;;;31.12.2022;31.12.2022;;;;
