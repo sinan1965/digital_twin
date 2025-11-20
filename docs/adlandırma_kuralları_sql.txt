@@ -1,0 +1,63 @@
+Adlandýrma Kurallarý
+Bu belge, veri ambarýndaki þemalar, tablolar, görünümler, sütunlar ve diðer nesneler için kullanýlan adlandýrma kurallarýný 
+özetlemektedir.
+Ýçindekiler
+1. Genel Ýlkeler
+2. Tablo Adlandýrma Kurallarý
+- Bronz Kurallar
+- Gümüþ Kurallar
+- Altýn Kurallar
+3. Sütun Adlandýrma Kurallarý
+- Yedek Anahtarlar
+- Teknik Sütunlar
+4. Saklý Yordam
+Genel Ýlkeler
+- Adlandýrma Kurallarý: Kelimeleri ayýrmak için küçük harf ve alt çizgi (`_`) ile snake_case kullanýn.
+- Dil: Tüm adlar için Ýngilizce kullanýn.
+- Ayrýlmýþ Sözcüklerden Kaçýnýn: Nesne adlarý olarak SQL ayrýlmýþ sözcüklerini kullanmayýn.
+Tablo Adlandýrma Kurallarý
+Bronz Kurallar
+- Tüm adlar kaynak sistem adýyla baþlamalý ve tablo adlarý, yeniden adlandýrýlmadan orijinal adlarýyla eþleþmelidir. - 
+`<sourcesystem>_<entity>`
+- `<sourcesystem>`: Kaynak sistemin adý (ör. `crm`, `erp`).
+- `<entity>`: Kaynak sistemdeki tablonun tam adý.
+- Örnek: `crm_customer_info` › CRM sistemindeki müþteri bilgileri.
+Gümüþ Kurallar
+- Tüm adlar kaynak sistem adýyla baþlamalý ve tablo adlarý, yeniden adlandýrýlmadan orijinal adlarýyla eþleþmelidir.
+- `<sourcesystem>_<entity>`
+- `<sourcesystem>`: Kaynak sistemin adý (ör. `crm`, `erp`).
+- `<entity>`: Kaynak sistemdeki tablonun tam adý.
+- Örnek: `crm_customer_info` › CRM sistemindeki müþteri bilgileri.
+Altýn Kurallar
+- Tüm adlar, kategori önekiyle baþlayarak tablolar için anlamlý, iþletmeye uygun adlar kullanmalýdýr. - `<category>_<entity>`
+- `<category>`: Tablonun rolünü açýklar, örneðin `dim` (boyut) veya `fact` (olgu tablosu).
+- `<entity>`: Tablonun iþ alanýyla uyumlu açýklayýcý adý (örneðin, `customers`, `products`, `sales`).
+- Örnekler:
+- `dim_customers` › Müþteri verileri için boyut tablosu.
+- `fact_sales` › Satýþ iþlemlerini içeren olgu tablosu.
+Kategori Desenleri Sözlüðü
+| Desen | Anlam | Örnekler |
+|--------------|-------------------------------------|----------------------------------------------------------------------------|
+| `dim_` | Boyut tablosu | `dim_customer`, `dim_product` |
+| `fact_` | Gerçek tablosu | `fact_sales` |
+| `report_` | Rapor tablosu | `report_customers`, `report_sales_monthly` |
+Sütun Adlandýrma Kurallarý
+Vekil Anahtarlar
+- Boyut tablolarýndaki tüm birincil anahtarlar `_key` son ekini kullanmalýdýr. - `<table_name>_key`
+- `<table_name>`: Anahtarýn ait olduðu tablonun veya varlýðýn adýný belirtir.
+- `_key`: Bu sütunun bir yedek anahtar olduðunu belirten bir sonek.
+- Örnek: `customer_key` › `dim_customers` tablosundaki yedek anahtar.
+Teknik Sütunlar
+- Tüm teknik sütunlar `dwh_` önekiyle baþlamalý ve ardýndan sütunun amacýný belirten açýklayýcý bir ad gelmelidir.
+- `dwh_<column_name>`
+- `dwh`: Yalnýzca sistem tarafýndan oluþturulan meta veriler için önek.
+- `<column_name>`: Sütunun amacýný belirten açýklayýcý ad.
+- Örnek: `dwh_load_date` › Kaydýn yüklendiði tarihi depolamak için kullanýlan sistem tarafýndan oluþturulan sütun.
+
+Saklý Yordam
+- Veri yüklemek için kullanýlan tüm saklý yordamlar þu adlandýrma düzenine uymalýdýr:
+- `load_<katman>`.
+- `<katman>`: `bronz`, `gümüþ` veya `altýn` gibi yüklenen katmaný temsil eder.
+- Örnek:
+- `load_bronze` › Bronz katmanýna veri yüklemek için saklý yordam.
+- `load_silver` › Gümüþ katmanýna veri yüklemek için saklý yordam.
