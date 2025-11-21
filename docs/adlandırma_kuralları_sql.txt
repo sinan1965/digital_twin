@@ -45,7 +45,7 @@ Kategori Desenleri Sözlüğü
 |--------------|----------------|--------------------------------------------|
 | `dim_`       | Boyut tablosu  | `dim_ürün`, `dim_enerji_analizörü`         |
 | `fact_`      | Gerçek tablosu | `fact_üretim`                              |
-| `report_`    | Rapor tablosu  | `forklift_rapor`, `otomasyon_rapor`        |
+| `rapor_`     | Rapor tablosu  | `rapor_forklift`, `rapor_otomasyon`        |
 
 Sütun Adlandırma Kuralları
 Vekil Anahtarlar
@@ -68,4 +68,5 @@ Saklı Yordam
 - Örnek:
 - `load_bronz` › Bronz katmanına veri yüklemek için saklı yordam.
 - `load_gümüş` › Gümüş katmanına veri yüklemek için saklı yordam.
+
 
