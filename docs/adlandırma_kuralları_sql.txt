@@ -1,63 +1,71 @@
-Adlandırma Kuralları
-Bu belge, veri ambarındaki şemalar, tablolar, görünümler, sütunlar ve diğer nesneler için kullanılan adlandırma kurallarını 
-özetlemektedir.
-İçindekiler
-1. Genel İlkeler
-2. Tablo Adlandırma Kuralları
-- Bronz Kurallar
-- Gümüş Kurallar
-- Altın Kurallar
-3. Sütun Adlandırma Kuralları
-- Yedek Anahtarlar
-- Teknik Sütunlar
-4. Saklı Yordam
-Genel İlkeler
-- Adlandırma Kuralları: Kelimeleri ayırmak için küçük harf ve alt çizgi (`_`) ile snake_case kullanın.
-- Dil: Tüm adlar için İngilizce kullanın.
-- Ayrılmış Sözcüklerden Kaçının: Nesne adları olarak SQL ayrılmış sözcüklerini kullanmayın.
-Tablo Adlandırma Kuralları
-Bronz Kurallar
-- Tüm adlar kaynak sistem adıyla başlamalı ve tablo adları, yeniden adlandırılmadan orijinal adlarıyla eşleşmelidir. - 
-`<sourcesystem>_<entity>`
-- `<sourcesystem>`: Kaynak sistemin adı (ör. `crm`, `erp`).
-- `<entity>`: Kaynak sistemdeki tablonun tam adı.
-- Örnek: `crm_customer_info` › CRM sistemindeki müşteri bilgileri.
-Gümüş Kurallar
-- Tüm adlar kaynak sistem adıyla başlamalı ve tablo adları, yeniden adlandırılmadan orijinal adlarıyla eşleşmelidir.
-- `<sourcesystem>_<entity>`
-- `<sourcesystem>`: Kaynak sistemin adı (ör. `crm`, `erp`).
-- `<entity>`: Kaynak sistemdeki tablonun tam adı.
-- Örnek: `crm_customer_info` › CRM sistemindeki müşteri bilgileri.
-Altın Kurallar
-- Tüm adlar, kategori önekiyle başlayarak tablolar için anlamlı, işletmeye uygun adlar kullanmalıdır. - `<category>_<entity>`
-- `<category>`: Tablonun rolünü açıklar, örneğin `dim` (boyut) veya `fact` (olgu tablosu).
-- `<entity>`: Tablonun iş alanıyla uyumlu açıklayıcı adı (örneğin, `customers`, `products`, `sales`).
-- Örnekler:
-- `dim_customers` › Müşteri verileri için boyut tablosu.
-- `fact_sales` › Satış işlemlerini içeren olgu tablosu.
-Kategori Desenleri Sözlüğü
-| Desen | Anlam | Örnekler |
-|--------------|-------------------------------------|----------------------------------------------------------------------------|
-| `dim_` | Boyut tablosu | `dim_customer`, `dim_product` |
-| `fact_` | Gerçek tablosu | `fact_sales` |
-| `report_` | Rapor tablosu | `report_customers`, `report_sales_monthly` |
-Sütun Adlandırma Kuralları
-Vekil Anahtarlar
-- Boyut tablolarındaki tüm birincil anahtarlar `_key` son ekini kullanmalıdır. - `<table_name>_key`
-- `<table_name>`: Anahtarın ait olduğu tablonun veya varlığın adını belirtir.
-- `_key`: Bu sütunun bir yedek anahtar olduğunu belirten bir sonek.
-- Örnek: `customer_key` › `dim_customers` tablosundaki yedek anahtar.
-Teknik Sütunlar
-- Tüm teknik sütunlar `dwh_` önekiyle başlamalı ve ardından sütunun amacını belirten açıklayıcı bir ad gelmelidir.
-- `dwh_<column_name>`
-- `dwh`: Yalnızca sistem tarafından oluşturulan meta veriler için önek.
-- `<column_name>`: Sütunun amacını belirten açıklayıcı ad.
-- Örnek: `dwh_load_date` › Kaydın yüklendiği tarihi depolamak için kullanılan sistem tarafından oluşturulan sütun.
+AdlandÄ±rma KurallarÄ±
 
-Saklı Yordam
-- Veri yüklemek için kullanılan tüm saklı yordamlar şu adlandırma düzenine uymalıdır:
+Bu belge, veri ambarÄ±ndaki ÅŸemalar, tablolar, gÃ¶rÃ¼nÃ¼mler, sÃ¼tunlar ve diÄŸer nesneler iÃ§in kullanÄ±lan adlandÄ±rma kurallarÄ±nÄ± 
+Ã¶zetlemektedir.
+
+Ä°Ã§indekiler
+1. Genel Ä°lkeler
+2. Tablo AdlandÄ±rma KurallarÄ±
+- Bronz Kurallar
+- GÃ¼mÃ¼ÅŸ Kurallar
+- AltÄ±n Kurallar
+3. SÃ¼tun AdlandÄ±rma KurallarÄ±
+- Yedek Anahtarlar
+- Teknik SÃ¼tunlar
+4. SaklÄ± Yordam
+
+Genel Ä°lkeler
+- AdlandÄ±rma KurallarÄ±: Kelimeleri ayÄ±rmak iÃ§in kÃ¼Ã§Ã¼k harf ve alt Ã§izgi (`_`) ile snake_case kullanÄ±n.
+- Dil: TÃ¼m adlar iÃ§in TÃ¼rkÃ§e kullanÄ±n.
+- AyrÄ±lmÄ±ÅŸ SÃ¶zcÃ¼klerden KaÃ§Ä±nÄ±n: Nesne adlarÄ± olarak SQL ayrÄ±lmÄ±ÅŸ sÃ¶zcÃ¼klerini kullanmayÄ±n.
+
+Tablo AdlandÄ±rma KurallarÄ±
+Bronz Kurallar
+- TÃ¼m adlar kaynak sistem adÄ±yla baÅŸlamalÄ± ve tablo adlarÄ±, yeniden adlandÄ±rÄ±lmadan orijinal adlarÄ±yla eÅŸleÅŸmelidir. - 
+`<sourcesystem>_<entity>`
+- `<sourcesystem>`: Kaynak sistemin adÄ± (Ã¶r. `Ã¼retim`, `otomasyon`).
+- `<entity>`: Kaynak sistemdeki tablonun tam adÄ±.
+- Ã–rnek: `forklift_whh`, forklift_osh â€º sistemindeki forklift konum dÄ±ÅŸÄ± tarihÃ§esi ve kullaÄ±m sÃ¼releri tarihÃ§esi vb.
+GÃ¼mÃ¼ÅŸ Kurallar
+- TÃ¼m adlar kaynak sistem adÄ±yla baÅŸlamalÄ± ve tablo adlarÄ±, yeniden adlandÄ±rÄ±lmadan orijinal adlarÄ±yla eÅŸleÅŸmelidir.
+- `<sourcesystem>_<entity>`
+- `<sourcesystem>`: Kaynak sistemin adÄ± (Ã¶r. `Ã¼retim`, `otomasyon`).
+- `<entity>`: Kaynak sistemdeki tablonun tam adÄ±.
+- Ã–rnek: `forklift_whh`, forklift_osh â€º sistemindeki forklift konum dÄ±ÅŸÄ± tarihÃ§esi ve kullaÄ±m sÃ¼releri tarihÃ§esi vb.
+AltÄ±n Kurallar
+- TÃ¼m adlar, kategori Ã¶nekiyle baÅŸlayarak tablolar iÃ§in anlamlÄ±, iÅŸletmeye uygun adlar kullanmalÄ±dÄ±r. - `<category>_<entity>`
+- `<category>`: Tablonun rolÃ¼nÃ¼ aÃ§Ä±klar, Ã¶rneÄŸin `dim` (boyut) veya `fact` (olgu tablosu).
+- `<entity>`: Tablonun iÅŸ alanÄ±yla uyumlu aÃ§Ä±klayÄ±cÄ± adÄ± (Ã¶rneÄŸin, `Ã¼retim`, `otomasyon`, `personel`).
+- Ã–rnekler:
+- `dim_personel` â€º Personel verileri iÃ§in boyut tablosu.
+- `fact_personel` â€º Personel konum verilerini iÃ§eren olgu tablosu.
+
+Kategori Desenleri SÃ¶zlÃ¼ÄŸÃ¼
+| Desen        | Anlam          | Ã–rnekler                                   |
+|--------------|----------------|--------------------------------------------|
+| `dim_`       | Boyut tablosu  | `dim_Ã¼rÃ¼n`, `dim_enerji_analizÃ¶rÃ¼`         |
+| `fact_`      | GerÃ§ek tablosu | `fact_Ã¼retim`                              |
+| `report_`    | Rapor tablosu  | `forklift_rapor`, `otomasyon_rapor`        |
+
+SÃ¼tun AdlandÄ±rma KurallarÄ±
+Vekil Anahtarlar
+- Boyut tablolarÄ±ndaki tÃ¼m birincil anahtarlar `_key` son ekini kullanmalÄ±dÄ±r. - `<table_name>_key`
+- `<table_name>`: AnahtarÄ±n ait olduÄŸu tablonun veya varlÄ±ÄŸÄ±n adÄ±nÄ± belirtir.
+- `_key`: Bu sÃ¼tunun bir yedek anahtar olduÄŸunu belirten bir sonek.
+- Ã–rnek: `Ã¼rÃ¼n_key` â€º `dim_Ã¼rÃ¼n` tablosundaki yedek anahtar.
+
+Teknik SÃ¼tunlar
+- TÃ¼m teknik sÃ¼tunlar `si_`(SayÄ±salÄ°kiz) Ã¶nekiyle baÅŸlamalÄ± ve ardÄ±ndan sÃ¼tunun amacÄ±nÄ± belirten aÃ§Ä±klayÄ±cÄ± bir ad gelmelidir.
+- `si_<column_name>`
+- `si`: YalnÄ±zca sistem tarafÄ±ndan oluÅŸturulan meta veriler iÃ§in Ã¶nek.
+- `<column_name>`: SÃ¼tunun amacÄ±nÄ± belirten aÃ§Ä±klayÄ±cÄ± ad.
+- Ã–rnek: `si_load_date` â€º KaydÄ±n yÃ¼klendiÄŸi tarihi depolamak iÃ§in kullanÄ±lan sistem tarafÄ±ndan oluÅŸturulan sÃ¼tun.
+
+SaklÄ± Yordam
+- Veri yÃ¼klemek iÃ§in kullanÄ±lan tÃ¼m saklÄ± yordamlar ÅŸu adlandÄ±rma dÃ¼zenine uymalÄ±dÄ±r:
 - `load_<katman>`.
-- `<katman>`: `bronz`, `gümüş` veya `altın` gibi yüklenen katmanı temsil eder.
-- Örnek:
-- `load_bronze` › Bronz katmanına veri yüklemek için saklı yordam.
-- `load_silver` › Gümüş katmanına veri yüklemek için saklı yordam.
+- `<katman>`: `bronz`, `gÃ¼mÃ¼ÅŸ` veya `altÄ±n` gibi yÃ¼klenen katmanÄ± temsil eder.
+- Ã–rnek:
+- `load_bronz` â€º Bronz katmanÄ±na veri yÃ¼klemek iÃ§in saklÄ± yordam.
+- `load_gÃ¼mÃ¼ÅŸ` â€º GÃ¼mÃ¼ÅŸ katmanÄ±na veri yÃ¼klemek iÃ§in saklÄ± yordam.
+
