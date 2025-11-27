@@ -8,14 +8,14 @@ Number and variety of data sources can be increased as needed.
 
 Data sources are;
 
-1. Production data, Data type: Transactional, Data Source: ERP,
-2. Real Time Location Services data for personnel locations, Data type : Time-series, Data source : IoT devices,
-3. Real Time Location Services data for forklift locations, Data type : Time-series, Data source : IoT devices,
-4. Electricity consumption data, Data type : Time-series, Data source : IoT devices,
-5. SCADA measurement data, Data type : Time-series, Data source : Relevant SCADA systems,
-6. Maintenance and machine failures data, Data type : Transactional, Data source : ERP,
-7. Customer orders data, Data type : Transactional, Data source : ERP,
-8. Purchase orders data, Data type : Transactional, Data source : ERP.
+1. Production data, Table type: Transactional, Data Source: ERP,
+2. Real Time Location Services data for personnel locations, Table type : Time-series data, Data source : IoT devices,
+3. Real Time Location Services data for forklift locations, Table type : Time-series data, Data source : IoT devices,
+4. Electricity consumption data, Table type : Time-series data, Data source : IoT devices,
+5. SCADA measurement data, Table type : Time-series data, Data source : Relevant SCADA systems,
+6. Maintenance and machine failures data, Table type : Transactional data, Data source : ERP,
+7. Customer orders data, Table type : Transactional data, Data source : ERP,
+8. Purchase orders data, Table type : Transactional data, Data source : ERP.
 
 ---
 ## 🏗️ Data Architecture
