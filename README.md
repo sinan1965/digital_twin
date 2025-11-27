@@ -8,7 +8,7 @@ Number and variety of data sources can be increased as needed.
 
 Data sources are;
 
-1. Production data, Table type: Transactional, Data Source: ERP,
+1. Production data, Table type: Transactional data, Data Source: ERP,
 2. Real Time Location Services data for personnel locations, Table type : Time-series data, Data source : IoT devices,
 3. Real Time Location Services data for forklift locations, Table type : Time-series data, Data source : IoT devices,
 4. Electricity consumption data, Table type : Time-series data, Data source : IoT devices,
