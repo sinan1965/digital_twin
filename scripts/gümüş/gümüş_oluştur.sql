@@ -1,8 +1,14 @@
-
-
-
-
-
+/*
+============================================
+DDL Betik: Gümüş tablolarının oluşturulması
+============================================
+Betik amacı:
+  Bu betik Gümüş katmanındaki tabloları 
+  oluşturur ev varsa eskileri siler.
+Gümüş tablolarındaki DDL yapısını tekrar 
+  tanımlamak için bu betiği çalıştırın.
+===========================================
+*/
 
 if object_id ('gümüş.üretim_veri', 'U') is not null
 	drop table gümüş.üretim_veri;
