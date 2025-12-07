@@ -10,6 +10,7 @@ Gümüş tablolarındaki DDL yapısını tekrar
 ===========================================
 */
 
+
 if object_id ('gümüş.üretim_veri', 'U') is not null
 	drop table gümüş.üretim_veri;
 create table gümüş.üretim_veri(
@@ -22,6 +23,9 @@ create table gümüş.üretim_veri(
 	pr3_miktar float, 
 	pr4_urun nvarchar(50), 
 	pr4_miktar float,
+	ay int,
+	hafta int,
+	gün int,
 	sayısalikiz_create_date datetime2 default getdate()
 );
 
@@ -46,6 +50,9 @@ create table gümüş.enerji_veri(
 	hat4_pr_en float,
 	hat4_ex_en float,
 	hat4_kd_en float,
+	ay int,
+	hafta int,
+	gün int,
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
@@ -90,6 +97,9 @@ create table gümüş.otomasyon_veri(
 	hat4ex_rsıcak float,
 	hat4ex_hidbas float,
 	hat4pr_akım float,
+	ay int,
+	hafta int,
+	gün int,
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
@@ -133,6 +143,8 @@ create table gümüş.forklift_zph(
 	end_date date,
 	end_time time,
 	duration_sec int,
+	start_ts datetime,
+	finish_ts datetime,
 	ay int,
 	hafta int,
 	gün int,
@@ -176,6 +188,8 @@ create table gümüş.forklift_whh(
 	hafta_günü int,
 	çeyrek int,
 	gün_saati int,
+	start_ts datetime,
+	finish_ts datetime,
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
@@ -199,6 +213,8 @@ create table gümüş.sipariş_veri(
 	sevk_performansı int,
 	zamanında int,
 	kayıt_eden nvarchar(50),
+	start_ts datetime,
+	finish_ts datetime,
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
@@ -218,6 +234,9 @@ create table gümüş.bakım_veri(
 	MüdahaleBitiş_Saati nvarchar(50),
 	MüdahaleSüresi_Dk float,
 	Açıklama nvarchar(300),
+	baş_saati datetime,
+	bit_saati datetime,
+	ay int,
+	hafta int,
+	gün int,
 	sayısalikiz_create_date datetime2 default getdate()
-)
-
