@@ -1,4 +1,4 @@
---------------------------------------------------
+---------------------------------------------------
 ------Altın katman prosedür oluşturma--------------
 ---------------------------------------------------
 
@@ -16,8 +16,8 @@ begin
 		print '-----------------------------------------------------';
 
 		set @start_time = getdate();		
-		truncate table altın.üretim_veri;
-		insert into altın.üretim_veri(
+		truncate table altın.fact_üretim;
+		insert into altın.fact_üretim(
 			tarih_saat,
 			hat1_urun, 
 			hat1_miktar, 
@@ -55,8 +55,8 @@ begin
 		print '-----------------------------------------------------';
 
 		set @start_time = getdate();
-		truncate table altın.otomasyon_veri;
-		insert into altın.otomasyon_veri(
+		truncate table altın.fact_otomasyon;
+		insert into altın.fact_otomasyon(
 			tarih_saat,
 			hat1_urun,	
 			hat1_beslemeMalzeme,
@@ -150,8 +150,8 @@ begin
 		print '-----------------------------------------------------';
 
 		set @start_time = getdate();
-		truncate table altın.enerji_veri;
-		insert into altın.enerji_veri(
+		truncate table altın.fact_enerji;
+		insert into altın.fact_enerji(
 			tarih_saat,
 			hat1_urun,	
 			hat1_pres,
@@ -205,8 +205,8 @@ begin
 		print '-----------------------------------------------------';
 
 		set @start_time = getdate();
-		truncate table altın.forklift_osh;
-		insert into altın.forklift_osh(
+		truncate table altın.fact_forkliftOSH;
+		insert into altın.fact_forkliftOSH(
 			sıra_no,
 			forklift_anahtarı,
 			başlangıç_tarihi,
@@ -241,8 +241,8 @@ begin
 		print 'Forklift working-hours-history verileri yükleniyor...';
 		print '-----------------------------------------------------';
 		set @start_time = getdate();
-		truncate table altın.forklift_whh;
-		insert into altın.forklift_whh(
+		truncate table altın.fact_forkliftWHH;
+		insert into altın.fact_forkliftWHH(
 			sıra_no,
 			forklift_anahtarı,
 			iş_başlangıçTarihi,
@@ -286,8 +286,8 @@ begin
 		print 'Forklift zone-presence-history verileri yükleniyor...';
 		print '-----------------------------------------------------';
 		set @start_time = getdate();
-		truncate table altın.forklift_zph;
-		insert into altın.forklift_zph(
+		truncate table altın.fact_forkliftZPH;
+		insert into altın.fact_forkliftZPH(
 			tarih,
 			forklift_anahtarı,
 			bölge,
@@ -331,16 +331,16 @@ begin
 	print 'Personel konum verileri yükleniyor...';
 	print '-----------------------------------------------------';
 	set @start_time = getdate();
-	truncate table altın.personel_veri;
-	insert into altın.personel_veri(
+	truncate table altın.fact_personel;
+	insert into altın.fact_personel(
 		tarih_saat,
 		_id,
 		katPlan_anahtarı,
 		katPlan_etiketi,
 		bulunma_süresi,
 		bulunma_başlangıcı,
-		forklift_anahtarı, 
-		forklift_etiketi,
+		personel_anahtarı, 
+		personel_etiketi,
 		bölge_anahtarı,
 		bölge_etiketi,
 		ay,
@@ -364,8 +364,8 @@ begin
 		floorPlan_label as katPlan_etiketi,
 		presence_duration as bulunma_süresi,
 		presence_startedAt as bulunma_başlangıcı,
-		tracker_id as forklift_anahtarı,
-		tracker_label as forklift_etiketi,
+		tracker_id as personel_anahtarı,
+		tracker_label as personel_etiketi,
 		zone_id as bölge_anahtarı,
 		zone_label as bölge_etiketi,
 		ay,
@@ -374,13 +374,13 @@ begin
 		tarih_n as tarih_normal,
 		zaman,
 		dept_ismi as departman_ismi,
-		vardiya
+		kat_ismi,
 		hafta_günü,
 		gün_saati,
 		çeyrek,
 		gün_ismi,
-		kat_ismi,
-		kısa_isim
+		kısa_isim,
+		vardiya
 		from gümüş.personel_veri
 		set @end_time = getdate();
 		print '>> Yükleme süresi: ' + cast(datediff(second, @start_time, @end_time) as nvarchar) + ' seconds';
@@ -390,8 +390,8 @@ begin
 		print 'Sipariş verileri yükleniyor...';
 		print '-----------------------------------------------------';
 		set @start_time = getdate();
-		truncate table altın.sipariş_veri;
-		insert into altın.sipariş_veri(
+		truncate table altın.fact_sipariş;
+		insert into altın.fact_sipariş(
 			tarih,
 			bayii,
 			sipariş_miktarı,
@@ -437,8 +437,8 @@ begin
 		print 'Bakım verileri yükleniyor...';
 		print '-----------------------------------------------------';
 		set @start_time = getdate();
-		truncate table altın.bakım_veri;
-		insert into altın.bakım_veri(
+		truncate table altın.fact_bakım;
+		insert into altın.fact_bakım(
 			arıza_bakım,
 			bildirim_tarihi,
 			ekipman_ismi,
@@ -500,3 +500,5 @@ begin
 	END CATCH
 END
 
+
+exec altın.yükle_altın
