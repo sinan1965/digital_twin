@@ -1,10 +1,11 @@
+
 ----------------------------------------------------
 ---------------Altın katman oluşturma---------------
 ----------------------------------------------------
 
-if object_id ('altın.üretim_veri', 'U') is not null
-	drop table altın.üretim_veri;
-create table altın.üretim_veri(
+if object_id ('altın.fact_üretim', 'U') is not null
+	drop table altın.fact_üretim;
+create table altın.fact_üretim(
 	tarih_saat datetime,
 	hat1_urun nvarchar(50), 
 	hat1_miktar float, 
@@ -21,9 +22,9 @@ create table altın.üretim_veri(
 );
 
 
-if object_id ('altın.enerji_veri', 'U') is not null
-	drop table altın.enerji_veri;
-create table altın.enerji_veri(
+if object_id ('altın.fact_enerji', 'U') is not null
+	drop table altın.fact_enerji;
+create table altın.fact_enerji(
 	tarih_saat datetime,
 	hat1_urun nvarchar(50),	
 	hat1_pres float,
@@ -48,9 +49,9 @@ create table altın.enerji_veri(
 )
 
 
-if object_id ('altın.otomasyon_veri', 'U') is not null
-	drop table altın.otomasyon_veri;
-create table altın.otomasyon_veri(
+if object_id ('altın.fact_otomasyon', 'U') is not null
+	drop table altın.fact_otomasyon;
+create table altın.fact_otomasyon(
 	tarih_saat datetime,
 	hat1_urun nvarchar(50),	
 	hat1_beslemeMalzeme float,
@@ -94,17 +95,17 @@ create table altın.otomasyon_veri(
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
-if object_id ('altın.personel_veri', 'U') is not null
-	drop table altın.personel_veri;
-create table altın.personel_veri(
+if object_id ('altın.fact_personel', 'U') is not null
+	drop table altın.fact_personel;
+create table altın.fact_personel(
 	tarih_saat datetime,
 	_id nvarchar(50),
 	katPlan_anahtarı nvarchar(50),
 	katPlan_etiketi nvarchar(50),
 	bulunma_süresi int,
 	bulunma_başlangıcı nvarchar(50),
-	forklift_anahtarı nvarchar(50), 
-	forklift_etiketi nvarchar(50),
+	personel_anahtarı nvarchar(50), 
+	personel_etiketi nvarchar(50),
 	bölge_anahtarı nvarchar(50),
 	bölge_etiketi nvarchar(50),
 	ay int,
@@ -123,15 +124,15 @@ create table altın.personel_veri(
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
-if object_id ('altın.forklift_zph', 'U') is not null
-	drop table altın.forklift_zph;
-create table altın.forklift_zph(
+if object_id ('altın.fact_forkliftZPH', 'U') is not null
+	drop table altın.fact_forkliftZPH;
+create table altın.fact_forkliftZPH(
 	tarih date,
 	forklift_anahtarı nvarchar(50),
 	bölge nvarchar(50),
 	başlangıç_tarihi date,
 	başlangıç_saati time,
-	bitiş_tarihi time,
+	bitiş_tarihi date,
 	bitiş_saati time,
 	süre_saniye int,
 	başlangıç_zamanDamgası datetime,
@@ -145,9 +146,9 @@ create table altın.forklift_zph(
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
-if object_id ('altın.forklift_osh', 'U') is not null
-	drop table altın.forklift_osh;
-create table altın.forklift_osh(
+if object_id ('altın.fact_forkliftOSH', 'U') is not null
+	drop table altın.fact_forkliftOSH;
+create table altın.fact_forkliftOSH(
 	sıra_no int,
 	forklift_anahtarı nvarchar(50),
 	başlangıç_tarihi datetime,
@@ -162,9 +163,9 @@ create table altın.forklift_osh(
 	sayısalikiz_create_date datetime2 default getdate()
 );
 
-if object_id ('altın.forklift_whh', 'U') is not null
-	drop table altın.forklift_whh;
-create table altın.forklift_whh(
+if object_id ('altın.fact_forkliftWHH', 'U') is not null
+	drop table altın.fact_forkliftWHH;
+create table altın.fact_forkliftWHH(
 	sıra_no int,
 	forklift_anahtarı nvarchar(50),
 	iş_başlangıçTarihi date,
@@ -184,9 +185,9 @@ create table altın.forklift_whh(
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
-if object_id ('altın.sipariş_veri', 'U') is not null
-	drop table altın.sipariş_veri;
-create table altın.sipariş_veri(
+if object_id ('altın.fact_sipariş', 'U') is not null
+	drop table altın.fact_sipariş;
+create table altın.fact_sipariş(
 	tarih datetime,
 	bayii nvarchar(50),
 	sipariş_miktarı float,
@@ -209,9 +210,9 @@ create table altın.sipariş_veri(
 	sayısalikiz_create_date datetime2 default getdate()
 )
 
-if object_id ('altın.bakım_veri', 'U') is not null
-	drop table altın.bakım_veri;
-create table altın.bakım_veri(
+if object_id ('altın.fact_bakım', 'U') is not null
+	drop table altın.fact_bakım;
+create table altın.fact_bakım(
 	arıza_bakım nvarchar(50),
 	bildirim_tarihi nvarchar(50),
 	ekipman_ismi nvarchar(50),
@@ -232,5 +233,3 @@ create table altın.bakım_veri(
 	gün int,
 	sayısalikiz_create_date datetime2 default getdate()
 )
-
-
